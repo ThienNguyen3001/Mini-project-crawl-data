@@ -1,0 +1,1662 @@
+Position,Driver,Nationality,Car,Points,Year
+1,Max Verstappen,NED,Red Bull Racing Honda RBPT,255,2024
+2,Lando Norris,GBR,McLaren Mercedes,171,2024
+3,Charles Leclerc,MON,Ferrari,150,2024
+4,Carlos Sainz,ESP,Ferrari,146,2024
+5,Oscar Piastri,AUS,McLaren Mercedes,124,2024
+6,Sergio Perez,MEX,Red Bull Racing Honda RBPT,118,2024
+7,George Russell,GBR,Mercedes,111,2024
+8,Lewis Hamilton,GBR,Mercedes,110,2024
+9,Fernando Alonso,ESP,Aston Martin Aramco Mercedes,45,2024
+10,Lance Stroll,CAN,Aston Martin Aramco Mercedes,23,2024
+11,Nico Hulkenberg,GER,Haas Ferrari,22,2024
+12,Yuki Tsunoda,JPN,RB Honda RBPT,20,2024
+13,Daniel Ricciardo,AUS,RB Honda RBPT,11,2024
+14,Oliver Bearman,GBR,Ferrari,6,2024
+15,Pierre Gasly,FRA,Alpine Renault,6,2024
+16,Kevin Magnussen,DEN,Haas Ferrari,5,2024
+17,Alexander Albon,THA,Williams Mercedes,4,2024
+18,Esteban Ocon,FRA,Alpine Renault,3,2024
+19,Zhou Guanyu,CHN,Kick Sauber Ferrari,0,2024
+20,Logan Sargeant,USA,Williams Mercedes,0,2024
+21,Valtteri Bottas,FIN,Kick Sauber Ferrari,0,2024
+1,Max Verstappen,NED,Red Bull Racing Honda RBPT,575,2023
+2,Sergio Perez,MEX,Red Bull Racing Honda RBPT,285,2023
+3,Lewis Hamilton,GBR,Mercedes,234,2023
+4,Fernando Alonso,ESP,Aston Martin Aramco Mercedes,206,2023
+5,Charles Leclerc,MON,Ferrari,206,2023
+6,Lando Norris,GBR,McLaren Mercedes,205,2023
+7,Carlos Sainz,ESP,Ferrari,200,2023
+8,George Russell,GBR,Mercedes,175,2023
+9,Oscar Piastri,AUS,McLaren Mercedes,97,2023
+10,Lance Stroll,CAN,Aston Martin Aramco Mercedes,74,2023
+11,Pierre Gasly,FRA,Alpine Renault,62,2023
+12,Esteban Ocon,FRA,Alpine Renault,58,2023
+13,Alexander Albon,THA,Williams Mercedes,27,2023
+14,Yuki Tsunoda,JPN,AlphaTauri Honda RBPT,17,2023
+15,Valtteri Bottas,FIN,Alfa Romeo Ferrari,10,2023
+16,Nico Hulkenberg,GER,Haas Ferrari,9,2023
+17,Daniel Ricciardo,AUS,AlphaTauri Honda RBPT,6,2023
+18,Zhou Guanyu,CHN,Alfa Romeo Ferrari,6,2023
+19,Kevin Magnussen,DEN,Haas Ferrari,3,2023
+20,Liam Lawson,NZL,AlphaTauri Honda RBPT,2,2023
+21,Logan Sargeant,USA,Williams Mercedes,1,2023
+22,Nyck De Vries,NED,AlphaTauri Honda RBPT,0,2023
+1,Max Verstappen,NED,Red Bull Racing RBPT,454,2022
+2,Charles Leclerc,MON,Ferrari,308,2022
+3,Sergio Perez,MEX,Red Bull Racing RBPT,305,2022
+4,George Russell,GBR,Mercedes,275,2022
+5,Carlos Sainz,ESP,Ferrari,246,2022
+6,Lewis Hamilton,GBR,Mercedes,240,2022
+7,Lando Norris,GBR,McLaren Mercedes,122,2022
+8,Esteban Ocon,FRA,Alpine Renault,92,2022
+9,Fernando Alonso,ESP,Alpine Renault,81,2022
+10,Valtteri Bottas,FIN,Alfa Romeo Ferrari,49,2022
+11,Daniel Ricciardo,AUS,McLaren Mercedes,37,2022
+12,Sebastian Vettel,GER,Aston Martin Aramco Mercedes,37,2022
+13,Kevin Magnussen,DEN,Haas Ferrari,25,2022
+14,Pierre Gasly,FRA,AlphaTauri RBPT,23,2022
+15,Lance Stroll,CAN,Aston Martin Aramco Mercedes,18,2022
+16,Mick Schumacher,GER,Haas Ferrari,12,2022
+17,Yuki Tsunoda,JPN,AlphaTauri RBPT,12,2022
+18,Zhou Guanyu,CHN,Alfa Romeo Ferrari,6,2022
+19,Alexander Albon,THA,Williams Mercedes,4,2022
+20,Nicholas Latifi,CAN,Williams Mercedes,2,2022
+21,Nyck De Vries,NED,Williams Mercedes,2,2022
+22,Nico Hulkenberg,GER,Aston Martin Aramco Mercedes,0,2022
+1,Max Verstappen,NED,Red Bull Racing Honda,395.5,2021
+2,Lewis Hamilton,GBR,Mercedes,387.5,2021
+3,Valtteri Bottas,FIN,Mercedes,226,2021
+4,Sergio Perez,MEX,Red Bull Racing Honda,190,2021
+5,Carlos Sainz,ESP,Ferrari,164.5,2021
+6,Lando Norris,GBR,McLaren Mercedes,160,2021
+7,Charles Leclerc,MON,Ferrari,159,2021
+8,Daniel Ricciardo,AUS,McLaren Mercedes,115,2021
+9,Pierre Gasly,FRA,AlphaTauri Honda,110,2021
+10,Fernando Alonso,ESP,Alpine Renault,81,2021
+11,Esteban Ocon,FRA,Alpine Renault,74,2021
+12,Sebastian Vettel,GER,Aston Martin Mercedes,43,2021
+13,Lance Stroll,CAN,Aston Martin Mercedes,34,2021
+14,Yuki Tsunoda,JPN,AlphaTauri Honda,32,2021
+15,George Russell,GBR,Williams Mercedes,16,2021
+16,Kimi RÃ¤ikkÃ¶nen,FIN,Alfa Romeo Racing Ferrari,10,2021
+17,Nicholas Latifi,CAN,Williams Mercedes,7,2021
+18,Antonio Giovinazzi,ITA,Alfa Romeo Racing Ferrari,3,2021
+19,Mick Schumacher,GER,Haas Ferrari,0,2021
+20,Robert Kubica,POL,Alfa Romeo Racing Ferrari,0,2021
+21,Nikita Mazepin,RAF,Haas Ferrari,0,2021
+1,Lewis Hamilton,GBR,Mercedes,347,2020
+2,Valtteri Bottas,FIN,Mercedes,223,2020
+3,Max Verstappen,NED,Red Bull Racing Honda,214,2020
+4,Sergio Perez,MEX,Racing Point BWT Mercedes,125,2020
+5,Daniel Ricciardo,AUS,Renault,119,2020
+6,Carlos Sainz,ESP,McLaren Renault,105,2020
+7,Alexander Albon,THA,Red Bull Racing Honda,105,2020
+8,Charles Leclerc,MON,Ferrari,98,2020
+9,Lando Norris,GBR,McLaren Renault,97,2020
+10,Pierre Gasly,FRA,AlphaTauri Honda,75,2020
+11,Lance Stroll,CAN,Racing Point BWT Mercedes,75,2020
+12,Esteban Ocon,FRA,Renault,62,2020
+13,Sebastian Vettel,GER,Ferrari,33,2020
+14,Daniil Kvyat,RUS,AlphaTauri Honda,32,2020
+15,Nico Hulkenberg,GER,Racing Point BWT Mercedes,10,2020
+16,Kimi RÃ¤ikkÃ¶nen,FIN,Alfa Romeo Racing Ferrari,4,2020
+17,Antonio Giovinazzi,ITA,Alfa Romeo Racing Ferrari,4,2020
+18,George Russell,GBR,Williams Mercedes,3,2020
+19,Romain Grosjean,FRA,Haas Ferrari,2,2020
+20,Kevin Magnussen,DEN,Haas Ferrari,1,2020
+21,Nicholas Latifi,CAN,Williams Mercedes,0,2020
+22,Jack Aitken,GBR,Williams Mercedes,0,2020
+23,Pietro Fittipaldi,BRA,Haas Ferrari,0,2020
+1,Lewis Hamilton,GBR,Mercedes,413,2019
+2,Valtteri Bottas,FIN,Mercedes,326,2019
+3,Max Verstappen,NED,Red Bull Racing Honda,278,2019
+4,Charles Leclerc,MON,Ferrari,264,2019
+5,Sebastian Vettel,GER,Ferrari,240,2019
+6,Carlos Sainz,ESP,McLaren Renault,96,2019
+7,Pierre Gasly,FRA,Scuderia Toro Rosso Honda,95,2019
+8,Alexander Albon,THA,Red Bull Racing Honda,92,2019
+9,Daniel Ricciardo,AUS,Renault,54,2019
+10,Sergio Perez,MEX,Racing Point BWT Mercedes,52,2019
+11,Lando Norris,GBR,McLaren Renault,49,2019
+12,Kimi RÃ¤ikkÃ¶nen,FIN,Alfa Romeo Racing Ferrari,43,2019
+13,Daniil Kvyat,RUS,Scuderia Toro Rosso Honda,37,2019
+14,Nico Hulkenberg,GER,Renault,37,2019
+15,Lance Stroll,CAN,Racing Point BWT Mercedes,21,2019
+16,Kevin Magnussen,DEN,Haas Ferrari,20,2019
+17,Antonio Giovinazzi,ITA,Alfa Romeo Racing Ferrari,14,2019
+18,Romain Grosjean,FRA,Haas Ferrari,8,2019
+19,Robert Kubica,POL,Williams Mercedes,1,2019
+20,George Russell,GBR,Williams Mercedes,0,2019
+1,Lewis Hamilton,GBR,Mercedes,408,2018
+2,Sebastian Vettel,GER,Ferrari,320,2018
+3,Kimi RÃ¤ikkÃ¶nen,FIN,Ferrari,251,2018
+4,Max Verstappen,NED,Red Bull Racing TAG Heuer,249,2018
+5,Valtteri Bottas,FIN,Mercedes,247,2018
+6,Daniel Ricciardo,AUS,Red Bull Racing TAG Heuer,170,2018
+7,Nico Hulkenberg,GER,Renault,69,2018
+8,Sergio Perez,MEX,Force India Mercedes,62,2018
+9,Kevin Magnussen,DEN,Haas Ferrari,56,2018
+10,Carlos Sainz,ESP,Renault,53,2018
+11,Fernando Alonso,ESP,McLaren Renault,50,2018
+12,Esteban Ocon,FRA,Force India Mercedes,49,2018
+13,Charles Leclerc,MON,Sauber Ferrari,39,2018
+14,Romain Grosjean,FRA,Haas Ferrari,37,2018
+15,Pierre Gasly,FRA,Scuderia Toro Rosso Honda,29,2018
+16,Stoffel Vandoorne,BEL,McLaren Renault,12,2018
+17,Marcus Ericsson,SWE,Sauber Ferrari,9,2018
+18,Lance Stroll,CAN,Williams Mercedes,6,2018
+19,Brendon Hartley,NZL,Scuderia Toro Rosso Honda,4,2018
+20,Sergey Sirotkin,RUS,Williams Mercedes,1,2018
+1,Lewis Hamilton,GBR,Mercedes,363,2017
+2,Sebastian Vettel,GER,Ferrari,317,2017
+3,Valtteri  Bottas,FIN,Mercedes,305,2017
+4,Kimi RÃ¤ikkÃ¶nen,FIN,Ferrari,205,2017
+5,Daniel Ricciardo,AUS,Red Bull Racing TAG Heuer,200,2017
+6,Max Verstappen,NED,Red Bull Racing TAG Heuer,168,2017
+7,Sergio Perez,MEX,Force India Mercedes,100,2017
+8,Esteban Ocon,FRA,Force India Mercedes,87,2017
+9,Carlos Sainz,ESP,Renault,54,2017
+10,Nico Hulkenberg,GER,Renault,43,2017
+11,Felipe Massa,BRA,Williams Mercedes,43,2017
+12,Lance Stroll,CAN,Williams Mercedes,40,2017
+13,Romain Grosjean,FRA,Haas Ferrari,28,2017
+14,Kevin Magnussen,DEN,Haas Ferrari,19,2017
+15,Fernando Alonso,ESP,McLaren Honda,17,2017
+16,Stoffel Vandoorne,BEL,McLaren Honda,13,2017
+17,Jolyon Palmer,GBR,Renault,8,2017
+18,Pascal Wehrlein,GER,Sauber Ferrari,5,2017
+19,Daniil Kvyat,RUS,Toro Rosso,5,2017
+20,Marcus Ericsson,SWE,Sauber Ferrari,0,2017
+21,Pierre Gasly,FRA,Toro Rosso,0,2017
+22,Antonio Giovinazzi,ITA,Sauber Ferrari,0,2017
+23,Brendon Hartley,NZL,Toro Rosso,0,2017
+1,Nico Rosberg,GER,Mercedes,385,2016
+2,Lewis Hamilton,GBR,Mercedes,380,2016
+3,Daniel Ricciardo,AUS,Red Bull Racing TAG Heuer,256,2016
+4,Sebastian Vettel,GER,Ferrari,212,2016
+5,Max Verstappen,NED,Red Bull Racing TAG Heuer,204,2016
+6,Kimi RÃ¤ikkÃ¶nen,FIN,Ferrari,186,2016
+7,Sergio Perez,MEX,Force India Mercedes,101,2016
+8,Valtteri  Bottas,FIN,Williams Mercedes,85,2016
+9,Nico Hulkenberg,GER,Force India Mercedes,72,2016
+10,Fernando Alonso,ESP,McLaren Honda,54,2016
+11,Felipe Massa,BRA,Williams Mercedes,53,2016
+12,Carlos Sainz,ESP,Toro Rosso Ferrari,46,2016
+13,Romain Grosjean,FRA,Haas Ferrari,29,2016
+14,Daniil Kvyat,RUS,Toro Rosso Ferrari,25,2016
+15,Jenson Button,GBR,McLaren Honda,21,2016
+16,Kevin Magnussen,DEN,Renault,7,2016
+17,Felipe Nasr,BRA,Sauber Ferrari,2,2016
+18,Jolyon Palmer,GBR,Renault,1,2016
+19,Pascal Wehrlein,GER,MRT Mercedes,1,2016
+20,Stoffel Vandoorne,BEL,McLaren Honda,1,2016
+21,Esteban Gutierrez ,MEX,Haas Ferrari,0,2016
+22,Marcus Ericsson,SWE,Sauber Ferrari,0,2016
+23,Esteban Ocon,FRA,MRT Mercedes,0,2016
+24,Rio Haryanto,INA,MRT Mercedes,0,2016
+1,Lewis Hamilton,GBR,Mercedes,381,2015
+2,Nico Rosberg,GER,Mercedes,322,2015
+3,Sebastian Vettel,GER,Ferrari,278,2015
+4,Kimi RÃ¤ikkÃ¶nen,FIN,Ferrari,150,2015
+5,Valtteri  Bottas,FIN,Williams Mercedes,136,2015
+6,Felipe Massa,BRA,Williams Mercedes,121,2015
+7,Daniil Kvyat,RUS,Red Bull Racing Renault,95,2015
+8,Daniel Ricciardo,AUS,Red Bull Racing Renault,92,2015
+9,Sergio Perez,MEX,Force India Mercedes,78,2015
+10,Nico Hulkenberg,GER,Force India Mercedes,58,2015
+11,Romain Grosjean,FRA,Lotus Mercedes,51,2015
+12,Max Verstappen,NED,STR Renault,49,2015
+13,Felipe Nasr,BRA,Sauber Ferrari,27,2015
+14,Pastor Maldonado,VEN,Lotus Mercedes,27,2015
+15,Carlos Sainz,ESP,STR Renault,18,2015
+16,Jenson Button,GBR,McLaren Honda,16,2015
+17,Fernando Alonso,ESP,McLaren Honda,11,2015
+18,Marcus Ericsson,SWE,Sauber Ferrari,9,2015
+19,Roberto Merhi,ESP,Marussia Ferrari,0,2015
+20,Alexander Rossi,USA,Marussia Ferrari,0,2015
+21,Will Stevens,GBR,Marussia Ferrari,0,2015
+1,Lewis Hamilton,GBR,Mercedes,384,2014
+2,Nico Rosberg,GER,Mercedes,317,2014
+3,Daniel Ricciardo,AUS,Red Bull Racing Renault,238,2014
+4,Valtteri  Bottas,FIN,Williams Mercedes,186,2014
+5,Sebastian Vettel,GER,Red Bull Racing Renault,167,2014
+6,Fernando Alonso,ESP,Ferrari,161,2014
+7,Felipe Massa,BRA,Williams Mercedes,134,2014
+8,Jenson Button,GBR,McLaren Mercedes,126,2014
+9,Nico Hulkenberg,GER,Force India Mercedes,96,2014
+10,Sergio Perez,MEX,Force India Mercedes,59,2014
+11,Kevin Magnussen,DEN,McLaren Mercedes,55,2014
+12,Kimi RÃ¤ikkÃ¶nen,FIN,Ferrari,55,2014
+13,Jean-Eric Vergne,FRA,STR Renault,22,2014
+14,Romain Grosjean,FRA,Lotus Renault,8,2014
+15,Daniil Kvyat,RUS,STR Renault,8,2014
+16,Pastor Maldonado,VEN,Lotus Renault,2,2014
+17,Jules Bianchi,FRA,Marussia Ferrari,2,2014
+18,Adrian Sutil,GER,Sauber Ferrari,0,2014
+19,Marcus Ericsson,SWE,Caterham Renault,0,2014
+20,Esteban Gutierrez ,MEX,Sauber Ferrari,0,2014
+21,Max Chilton,GBR,Marussia Ferrari,0,2014
+22,Kamui Kobayashi,JPN,Caterham Renault,0,2014
+23,Will Stevens,GBR,Caterham Renault,0,2014
+1,Sebastian Vettel,GER,Red Bull Racing Renault,397,2013
+2,Fernando Alonso,ESP,Ferrari,242,2013
+3,Mark Webber,AUS,Red Bull Racing Renault,199,2013
+4,Lewis Hamilton,GBR,Mercedes,189,2013
+5,Kimi RÃ¤ikkÃ¶nen,FIN,Lotus Renault,183,2013
+6,Nico Rosberg,GER,Mercedes,171,2013
+7,Romain Grosjean,FRA,Lotus Renault,132,2013
+8,Felipe Massa,BRA,Ferrari,112,2013
+9,Jenson Button,GBR,McLaren Mercedes,73,2013
+10,Nico Hulkenberg,GER,Sauber Ferrari,51,2013
+11,Sergio Perez,MEX,McLaren Mercedes,49,2013
+12,Paul di Resta,GBR,Force India Mercedes,48,2013
+13,Adrian Sutil,GER,Force India Mercedes,29,2013
+14,Daniel Ricciardo,AUS,STR Ferrari,20,2013
+15,Jean-Eric Vergne,FRA,STR Ferrari,13,2013
+16,Esteban Gutierrez ,MEX,Sauber Ferrari,6,2013
+17,Valtteri  Bottas,FIN,Williams Renault,4,2013
+18,Pastor Maldonado,VEN,Williams Renault,1,2013
+19,Jules Bianchi,FRA,Marussia Cosworth,0,2013
+20,Charles Pic,FRA,Caterham Renault,0,2013
+21,Heikki Kovalainen,FIN,Lotus Renault,0,2013
+22,Giedo van der Garde,NED,Caterham Renault,0,2013
+23,Max Chilton,GBR,Marussia Cosworth,0,2013
+1,Sebastian Vettel,GER,Red Bull Racing Renault,281,2012
+2,Fernando Alonso,ESP,Ferrari,278,2012
+3,Kimi RÃ¤ikkÃ¶nen,FIN,Lotus Renault,207,2012
+4,Lewis Hamilton,GBR,McLaren Mercedes,190,2012
+5,Jenson Button,GBR,McLaren Mercedes,188,2012
+6,Mark Webber,AUS,Red Bull Racing Renault,179,2012
+7,Felipe Massa,BRA,Ferrari,122,2012
+8,Romain Grosjean,FRA,Lotus Renault,96,2012
+9,Nico Rosberg,GER,Mercedes,93,2012
+10,Sergio Perez,MEX,Sauber Ferrari,66,2012
+11,Nico Hulkenberg,GER,Force India Mercedes,63,2012
+12,Kamui Kobayashi,JPN,Sauber Ferrari,60,2012
+13,Michael Schumacher,GER,Mercedes,49,2012
+14,Paul di Resta,GBR,Force India Mercedes,46,2012
+15,Pastor Maldonado,VEN,Williams Renault,45,2012
+16,Bruno Senna,BRA,Williams Renault,31,2012
+17,Jean-Eric Vergne,FRA,STR Ferrari,16,2012
+18,Daniel Ricciardo,AUS,STR Ferrari,10,2012
+19,Vitaly Petrov,RUS,Caterham Renault,0,2012
+20,Timo Glock,GER,Marussia Cosworth,0,2012
+21,Charles Pic,FRA,Marussia Cosworth,0,2012
+22,Heikki Kovalainen,FIN,Caterham Renault,0,2012
+23,Jerome d'Ambrosio,BEL,Lotus Renault,0,2012
+24,Narain Karthikeyan,IND,HRT Cosworth,0,2012
+25,Pedro de la Rosa,ESP,HRT Cosworth,0,2012
+1,Sebastian Vettel,GER,Red Bull Racing Renault,392,2011
+2,Jenson Button,GBR,McLaren Mercedes,270,2011
+3,Mark Webber,AUS,Red Bull Racing Renault,258,2011
+4,Fernando Alonso,ESP,Ferrari,257,2011
+5,Lewis Hamilton,GBR,McLaren Mercedes,227,2011
+6,Felipe Massa,BRA,Ferrari,118,2011
+7,Nico Rosberg,GER,Mercedes,89,2011
+8,Michael Schumacher,GER,Mercedes,76,2011
+9,Adrian Sutil,GER,Force India Mercedes,42,2011
+10,Vitaly Petrov,RUS,Renault,37,2011
+11,Nick Heidfeld,GER,Renault,34,2011
+12,Kamui Kobayashi,JPN,Sauber Ferrari,30,2011
+13,Paul di Resta,GBR,Force India Mercedes,27,2011
+14,Jaime Alguersuari,ESP,STR Ferrari,26,2011
+15,Sebastien Buemi,SUI,STR Ferrari,15,2011
+16,Sergio Perez,MEX,Sauber Ferrari,14,2011
+17,Rubens Barrichello,BRA,Williams Cosworth,4,2011
+18,Bruno Senna,BRA,Renault,2,2011
+19,Pastor Maldonado,VEN,Williams Cosworth,1,2011
+20,Pedro de la Rosa,ESP,Sauber Ferrari,0,2011
+21,Jarno Trulli,ITA,Lotus Renault,0,2011
+22,Heikki Kovalainen,FIN,Lotus Renault,0,2011
+23,Vitantonio Liuzzi,ITA,HRT Cosworth,0,2011
+24,Jerome d'Ambrosio,BEL,Virgin Cosworth,0,2011
+25,Timo Glock,GER,Virgin Cosworth,0,2011
+26,Narain Karthikeyan,IND,HRT Cosworth,0,2011
+27,Daniel Ricciardo,AUS,HRT Cosworth,0,2011
+28,Karun Chandhok,IND,Lotus Renault,0,2011
+1,Sebastian Vettel,GER,RBR Renault,256,2010
+2,Fernando Alonso,ESP,Ferrari,252,2010
+3,Mark Webber,AUS,RBR Renault,242,2010
+4,Lewis Hamilton,GBR,McLaren Mercedes,240,2010
+5,Jenson Button,GBR,McLaren Mercedes,214,2010
+6,Felipe Massa,BRA,Ferrari,144,2010
+7,Nico Rosberg,GER,Mercedes,142,2010
+8,Robert Kubica,POL,Renault,136,2010
+9,Michael Schumacher,GER,Mercedes,72,2010
+10,Rubens Barrichello,BRA,Williams Cosworth,47,2010
+11,Adrian Sutil,GER,Force India Mercedes,47,2010
+12,Kamui Kobayashi,JPN,Sauber Ferrari,32,2010
+13,Vitaly Petrov,RUS,Renault,27,2010
+14,Nico Hulkenberg,GER,Williams Cosworth,22,2010
+15,Vitantonio Liuzzi,ITA,Force India Mercedes,21,2010
+16,Sebastien Buemi,SUI,STR Ferrari,8,2010
+17,Pedro de la Rosa,ESP,Sauber Ferrari,6,2010
+18,Nick Heidfeld,GER,Sauber Ferrari,6,2010
+19,Jaime Alguersuari,ESP,STR Ferrari,5,2010
+20,Heikki Kovalainen,FIN,Lotus Cosworth,0,2010
+21,Jarno Trulli,ITA,Lotus Cosworth,0,2010
+22,Karun Chandhok,IND,HRT Cosworth,0,2010
+23,Bruno Senna,BRA,HRT Cosworth,0,2010
+24,Lucas di Grassi,BRA,Virgin Cosworth,0,2010
+25,Timo Glock,GER,Virgin Cosworth,0,2010
+26,Sakon Yamamoto,JPN,HRT Cosworth,0,2010
+27,Christian Klien,AUT,HRT Cosworth,0,2010
+1,Jenson Button,GBR,Brawn Mercedes,95,2009
+2,Sebastian Vettel,GER,RBR Renault,84,2009
+3,Rubens Barrichello,BRA,Brawn Mercedes,77,2009
+4,Mark Webber,AUS,RBR Renault,69.5,2009
+5,Lewis Hamilton,GBR,McLaren Mercedes,49,2009
+6,Kimi RÃ¤ikkÃ¶nen,FIN,Ferrari,48,2009
+7,Nico Rosberg,GER,Williams Toyota,34.5,2009
+8,Jarno Trulli,ITA,Toyota,32.5,2009
+9,Fernando Alonso,ESP,Renault,26,2009
+10,Timo Glock,GER,Toyota,24,2009
+11,Felipe Massa,BRA,Ferrari,22,2009
+12,Heikki Kovalainen,FIN,McLaren Mercedes,22,2009
+13,Nick Heidfeld,GER,Sauber BMW,19,2009
+14,Robert Kubica,POL,Sauber BMW,17,2009
+15,Giancarlo Fisichella,ITA,Ferrari,8,2009
+16,Sebastien Buemi,SUI,STR Ferrari,6,2009
+17,Adrian Sutil,GER,Force India Mercedes,5,2009
+18,Kamui Kobayashi,JPN,Toyota,3,2009
+19,Sebastien Bourdais,FRA,STR Ferrari,2,2009
+20,Kazuki Nakajima,JPN,Williams Toyota,0,2009
+21,Nelson Piquet,BRA,Renault,0,2009
+22,Vitantonio Liuzzi,ITA,Force India Mercedes,0,2009
+23,Romain Grosjean,FRA,Renault,0,2009
+24,Jaime Alguersuari,ESP,STR Ferrari,0,2009
+25,Luca Badoer,ITA,Ferrari,0,2009
+1,Lewis Hamilton,GBR,McLaren Mercedes,98,2008
+2,Felipe Massa,BRA,Ferrari,97,2008
+3,Kimi RÃ¤ikkÃ¶nen,FIN,Ferrari,75,2008
+4,Robert Kubica,POL,Sauber BMW,75,2008
+5,Fernando Alonso,ESP,Renault,61,2008
+6,Nick Heidfeld,GER,Sauber BMW,60,2008
+7,Heikki Kovalainen,FIN,McLaren Mercedes,53,2008
+8,Sebastian Vettel,GER,STR Ferrari,35,2008
+9,Jarno Trulli,ITA,Toyota,31,2008
+10,Timo Glock,GER,Toyota,25,2008
+11,Mark Webber,AUS,Red Bull Renault,21,2008
+12,Nelson Piquet,BRA,Renault,19,2008
+13,Nico Rosberg,GER,Williams Toyota,17,2008
+14,Rubens Barrichello,BRA,Honda,11,2008
+15,Kazuki Nakajima,JPN,Williams Toyota,9,2008
+16,David Coulthard,GBR,Red Bull Renault,8,2008
+17,Sebastien Bourdais,FRA,STR Ferrari,4,2008
+18,Jenson Button,GBR,Honda,3,2008
+19,Giancarlo Fisichella,ITA,Force India Ferrari,0,2008
+20,Adrian Sutil,GER,Force India Ferrari,0,2008
+21,Takuma Sato,JPN,Super Aguri Honda,0,2008
+22,Anthony Davidson,GBR,Super Aguri Honda,0,2008
+1,Kimi RÃ¤ikkÃ¶nen,FIN,Ferrari,110,2007
+2,Lewis Hamilton,GBR,McLaren Mercedes,109,2007
+3,Fernando Alonso,ESP,McLaren Mercedes,109,2007
+4,Felipe Massa,BRA,Ferrari,94,2007
+5,Nick Heidfeld,GER,Sauber BMW,61,2007
+6,Robert Kubica,POL,Sauber BMW,39,2007
+7,Heikki Kovalainen,FIN,Renault,30,2007
+8,Giancarlo Fisichella,ITA,Renault,21,2007
+9,Nico Rosberg,GER,Williams Toyota,20,2007
+10,David Coulthard,GBR,Red Bull Renault,14,2007
+11,Alexander Wurz,AUT,Williams Toyota,13,2007
+12,Mark Webber,AUS,Red Bull Renault,10,2007
+13,Jarno Trulli,ITA,Toyota,8,2007
+14,Sebastian Vettel,GER,STR Ferrari,6,2007
+15,Jenson Button,GBR,Honda,6,2007
+16,Ralf Schumacher,GER,Toyota,5,2007
+17,Takuma Sato,JPN,Super Aguri Honda,4,2007
+18,Vitantonio Liuzzi,ITA,STR Ferrari,3,2007
+19,Adrian Sutil,GER,Spyker Ferrari,1,2007
+20,Rubens Barrichello,BRA,Honda,0,2007
+21,Scott Speed,USA,STR Ferrari,0,2007
+22,Kazuki Nakajima,JPN,Williams Toyota,0,2007
+23,Anthony Davidson,GBR,Super Aguri Honda,0,2007
+24,Sakon Yamamoto,JPN,Spyker Ferrari,0,2007
+25,Christijan Albers,NED,Spyker Ferrari,0,2007
+1,Fernando Alonso,ESP,Renault,134,2006
+2,Michael Schumacher,GER,Ferrari,121,2006
+3,Felipe Massa,BRA,Ferrari,80,2006
+4,Giancarlo Fisichella,ITA,Renault,72,2006
+5,Kimi RÃ¤ikkÃ¶nen,FIN,McLaren Mercedes,65,2006
+6,Jenson Button,GBR,Honda,56,2006
+7,Rubens Barrichello,BRA,Honda,30,2006
+8,Juan Pablo Montoya,COL,McLaren Mercedes,26,2006
+9,Nick Heidfeld,GER,Sauber BMW,23,2006
+10,Ralf Schumacher,GER,Toyota,20,2006
+11,Pedro de la Rosa,ESP,McLaren Mercedes,19,2006
+12,Jarno Trulli,ITA,Toyota,15,2006
+13,David Coulthard,GBR,RBR Ferrari,14,2006
+14,Mark Webber,AUS,Williams Cosworth,7,2006
+15,Jacques Villeneuve,CAN,Sauber BMW,7,2006
+16,Robert Kubica,POL,Sauber BMW,6,2006
+17,Nico Rosberg,GER,Williams Cosworth,4,2006
+18,Christian Klien,AUT,RBR Ferrari,2,2006
+19,Vitantonio Liuzzi,ITA,STR Cosworth,1,2006
+20,Scott Speed,USA,STR Cosworth,0,2006
+21,Tiago Monteiro,POR,MF1 Toyota,0,2006
+22,Christijan Albers,NED,MF1 Toyota,0,2006
+23,Takuma Sato,JPN,Super Aguri Honda,0,2006
+24,Robert Doornbos,NED,RBR Ferrari,0,2006
+25,Yuji Ide,JPN,Super Aguri Honda,0,2006
+26,Sakon Yamamoto,JPN,Super Aguri Honda,0,2006
+27,Franck Montagny,FRA,Super Aguri Honda,0,2006
+1,Fernando Alonso,ESP,Renault,133,2005
+2,Kimi RÃ¤ikkÃ¶nen,FIN,McLaren Mercedes,112,2005
+3,Michael Schumacher,GER,Ferrari,62,2005
+4,Juan Pablo Montoya,COL,McLaren Mercedes,60,2005
+5,Giancarlo Fisichella,ITA,Renault,58,2005
+6,Ralf Schumacher,GER,Toyota,45,2005
+7,Jarno Trulli,ITA,Toyota,43,2005
+8,Rubens Barrichello,BRA,Ferrari,38,2005
+9,Jenson Button,GBR,BAR Honda,37,2005
+10,Mark Webber,AUS,Williams BMW,36,2005
+11,Nick Heidfeld,GER,Williams BMW,28,2005
+12,David Coulthard,GBR,RBR Cosworth,24,2005
+13,Felipe Massa,BRA,Sauber Petronas,11,2005
+14,Jacques Villeneuve,CAN,Sauber Petronas,9,2005
+15,Christian Klien,AUT,RBR Cosworth,9,2005
+16,Tiago Monteiro,POR,Jordan Toyota,7,2005
+17,Alexander Wurz,AUT,McLaren Mercedes,6,2005
+18,Narain Karthikeyan,IND,Jordan Toyota,5,2005
+19,Christijan Albers,NED,Minardi Cosworth,4,2005
+20,Pedro de la Rosa,ESP,McLaren Mercedes,4,2005
+21,Patrick Friesacher ,AUT,Minardi Cosworth,3,2005
+22,Antonio Pizzonia,BRA,Williams BMW,2,2005
+23,Takuma Sato,JPN,BAR Honda,1,2005
+24,Vitantonio Liuzzi,ITA,RBR Cosworth,1,2005
+25,Robert Doornbos,MON,Minardi Cosworth,0,2005
+1,Michael Schumacher,GER,Ferrari,148,2004
+2,Rubens Barrichello,BRA,Ferrari,114,2004
+3,Jenson Button,GBR,BAR Honda,85,2004
+4,Fernando Alonso,ESP,Renault,59,2004
+5,Juan Pablo Montoya,COL,Williams BMW,58,2004
+6,Jarno Trulli,ITA,Toyota,46,2004
+7,Kimi RÃ¤ikkÃ¶nen,FIN,McLaren Mercedes,45,2004
+8,Takuma Sato,JPN,BAR Honda,34,2004
+9,Ralf Schumacher,GER,Williams BMW,24,2004
+10,David Coulthard,GBR,McLaren Mercedes,24,2004
+11,Giancarlo Fisichella,ITA,Sauber Petronas,22,2004
+12,Felipe Massa,BRA,Sauber Petronas,12,2004
+13,Mark Webber,AUS,Jaguar Cosworth,7,2004
+14,Olivier Panis,FRA,Toyota,6,2004
+15,Antonio Pizzonia,BRA,Williams BMW,6,2004
+16,Christian Klien,AUT,Jaguar Cosworth,3,2004
+17,Cristiano da Matta,BRA,Toyota,3,2004
+18,Nick Heidfeld,GER,Jordan Ford,3,2004
+19,Timo Glock,GER,Jordan Ford,2,2004
+20,Zsolt Baumgartner,HUN,Minardi Cosworth,1,2004
+21,Jacques Villeneuve,CAN,Renault,0,2004
+22,Ricardo Zonta,BRA,Toyota,0,2004
+23,Marc Gene,ESP,Williams BMW,0,2004
+24,Giorgio Pantano,ITA,Jordan Ford,0,2004
+25,Gianmaria Bruni,ITA,Minardi Cosworth,0,2004
+1,Michael Schumacher,GER,Ferrari,93,2003
+2,Kimi RÃ¤ikkÃ¶nen,FIN,McLaren Mercedes,91,2003
+3,Juan Pablo Montoya,COL,Williams BMW,82,2003
+4,Rubens Barrichello,BRA,Ferrari,65,2003
+5,Ralf Schumacher,GER,Williams BMW,58,2003
+6,Fernando Alonso,ESP,Renault,55,2003
+7,David Coulthard,GBR,McLaren Mercedes,51,2003
+8,Jarno Trulli,ITA,Renault,33,2003
+9,Jenson Button,GBR,BAR Honda,17,2003
+10,Mark Webber,AUS,Jaguar Cosworth,17,2003
+11,Heinz-Harald Frentzen,GER,Sauber Petronas,13,2003
+12,Giancarlo Fisichella,ITA,Jordan Ford,12,2003
+13,Cristiano da Matta,BRA,Toyota,10,2003
+14,Nick Heidfeld,GER,Sauber Petronas,6,2003
+15,Olivier Panis,FRA,Toyota,6,2003
+16,Jacques Villeneuve,CAN,BAR Honda,6,2003
+17,Marc Gene,ESP,Williams BMW,4,2003
+18,Takuma Sato,JPN,BAR Honda,3,2003
+19,Ralph Firman,IRL,Jordan Ford,1,2003
+20,Justin Wilson,GBR,Jaguar Cosworth,1,2003
+21,Antonio Pizzonia,BRA,Jaguar Cosworth,0,2003
+22,Jos Verstappen,NED,Minardi Cosworth,0,2003
+23,Nicolas Kiesa,DEN,Minardi Cosworth,0,2003
+24,Zsolt Baumgartner,HUN,Jordan Ford,0,2003
+1,Michael Schumacher,GER,Ferrari,144,2002
+2,Rubens Barrichello,BRA,Ferrari,77,2002
+3,Juan Pablo Montoya,COL,Williams BMW,50,2002
+4,Ralf Schumacher,GER,Williams BMW,42,2002
+5,David Coulthard,GBR,McLaren Mercedes,41,2002
+6,Kimi RÃ¤ikkÃ¶nen,FIN,McLaren Mercedes,24,2002
+7,Jenson Button,GBR,Renault,14,2002
+8,Jarno Trulli,ITA,Renault,9,2002
+9,Eddie Irvine,GBR,Jaguar Cosworth,8,2002
+10,Nick Heidfeld,GER,Sauber Petronas,7,2002
+11,Giancarlo Fisichella,ITA,Jordan Honda,7,2002
+12,Jacques Villeneuve,CAN,BAR Honda,4,2002
+13,Felipe Massa,BRA,Sauber Petronas,4,2002
+14,Olivier Panis,FRA,BAR Honda,3,2002
+15,Takuma Sato,JPN,Jordan Honda,2,2002
+16,Mark Webber,AUS,Minardi Asiatech,2,2002
+17,Mika Salo,FIN,Toyota,2,2002
+18,Heinz-Harald Frentzen,GER,Sauber Petronas,2,2002
+19,Allan McNish,GBR,Toyota,0,2002
+20,Alex Yoong,MAS,Minardi Asiatech,0,2002
+21,Pedro de la Rosa,ESP,Jaguar Cosworth,0,2002
+22,Enrique Bernoldi,BRA,Arrows Cosworth,0,2002
+1,Michael Schumacher,GER,Ferrari,123,2001
+2,David Coulthard,GBR,McLaren Mercedes,65,2001
+3,Rubens Barrichello,BRA,Ferrari,56,2001
+4,Ralf Schumacher,GER,Williams BMW,49,2001
+5,Mika Hakkinen,FIN,McLaren Mercedes,37,2001
+6,Juan Pablo Montoya,COL,Williams BMW,31,2001
+7,Jacques Villeneuve,CAN,BAR Honda,12,2001
+8,Nick Heidfeld,GER,Sauber Petronas,12,2001
+9,Jarno Trulli,ITA,Jordan Honda,12,2001
+10,Kimi RÃ¤ikkÃ¶nen,FIN,Sauber Petronas,9,2001
+11,Giancarlo Fisichella,ITA,Benetton Renault,8,2001
+12,Eddie Irvine,GBR,Jaguar Cosworth,6,2001
+13,Heinz-Harald Frentzen,GER,Prost Acer,6,2001
+14,Olivier Panis,FRA,BAR Honda,5,2001
+15,Jean Alesi,FRA,Jordan Honda,5,2001
+16,Pedro de la Rosa,ESP,Jaguar Cosworth,3,2001
+17,Jenson Button,GBR,Benetton Renault,2,2001
+18,Jos Verstappen,NED,Arrows Asiatech,1,2001
+1,Michael Schumacher,GER,Ferrari,108,2000
+2,Mika Hakkinen,FIN,McLaren Mercedes,89,2000
+3,David Coulthard,GBR,McLaren Mercedes,73,2000
+4,Rubens Barrichello,BRA,Ferrari,62,2000
+5,Ralf Schumacher,GER,Williams BMW,24,2000
+6,Giancarlo Fisichella,ITA,Benetton Playlife,18,2000
+7,Jacques Villeneuve,CAN,BAR Honda,17,2000
+8,Jenson Button,GBR,Williams BMW,12,2000
+9,Heinz-Harald Frentzen,GER,Jordan Mugen Honda,11,2000
+10,Jarno Trulli,ITA,Jordan Mugen Honda,6,2000
+11,Mika Salo,FIN,Sauber Petronas,6,2000
+12,Jos Verstappen,NED,Arrows Supertec,5,2000
+13,Eddie Irvine,GBR,Jaguar Cosworth,4,2000
+14,Ricardo Zonta,BRA,BAR Honda,3,2000
+15,Alexander Wurz,AUT,Benetton Playlife,2,2000
+16,Pedro de la Rosa,ESP,Arrows Supertec,2,2000
+17,Pedro Diniz,BRA,Sauber Petronas,0,2000
+18,Johnny Herbert,GBR,Jaguar Cosworth,0,2000
+19,Marc Gene,ESP,Minardi Fondmetal,0,2000
+20,Gaston Mazzacane,ARG,Minardi Fondmetal,0,2000
+21,Nick Heidfeld,GER,Prost Peugeot,0,2000
+22,Jean Alesi,FRA,Prost Peugeot,0,2000
+23,Luciano Burti,BRA,Jaguar Cosworth,0,2000
+1,Mika Hakkinen,FIN,McLaren Mercedes,76,1999
+2,Eddie Irvine,GBR,Ferrari,74,1999
+3,Heinz-Harald Frentzen,GER,Jordan Mugen Honda,54,1999
+4,David Coulthard,GBR,McLaren Mercedes,48,1999
+5,Michael Schumacher,GER,Ferrari,44,1999
+6,Ralf Schumacher,GER,Williams Supertec,35,1999
+7,Rubens Barrichello,BRA,Stewart Ford,21,1999
+8,Johnny Herbert,GBR,Stewart Ford,15,1999
+9,Giancarlo Fisichella,ITA,Benetton Playlife,13,1999
+10,Mika Salo,FIN,Ferrari,10,1999
+11,Jarno Trulli,ITA,Prost Peugeot,7,1999
+12,Damon Hill,GBR,Jordan Mugen Honda,7,1999
+13,Alexander Wurz,AUT,Benetton Playlife,3,1999
+14,Pedro Diniz,BRA,Sauber Petronas,3,1999
+15,Olivier Panis,FRA,Prost Peugeot,2,1999
+16,Jean Alesi,FRA,Sauber Petronas,2,1999
+17,Pedro de la Rosa,ESP,Arrows,1,1999
+18,Marc Gene,ESP,Minardi Ford,1,1999
+1,Mika Hakkinen,FIN,McLaren Mercedes,100,1998
+2,Michael Schumacher,GER,Ferrari,86,1998
+3,David Coulthard,GBR,McLaren Mercedes,56,1998
+4,Eddie Irvine,GBR,Ferrari,47,1998
+5,Jacques Villeneuve,CAN,Williams Mecachrome,21,1998
+6,Damon Hill,GBR,Jordan Mugen Honda,20,1998
+7,Heinz-Harald Frentzen,GER,Williams Mecachrome,17,1998
+8,Alexander Wurz,AUT,Benetton Playlife,17,1998
+9,Giancarlo Fisichella,ITA,Benetton Playlife,16,1998
+10,Ralf Schumacher,GER,Jordan Mugen Honda,14,1998
+11,Jean Alesi,FRA,Sauber Petronas,9,1998
+12,Rubens Barrichello,BRA,Stewart Ford,4,1998
+13,Mika Salo,FIN,Arrows,3,1998
+14,Pedro Diniz,BRA,Arrows,3,1998
+15,Johnny Herbert,GBR,Sauber Petronas,1,1998
+16,Jan Magnussen,DEN,Stewart Ford,1,1998
+17,Jarno Trulli,ITA,Prost Peugeot,1,1998
+18,Ricardo Rosset,BRA,Tyrrell Ford,0,1998
+19,Olivier Panis,FRA,Prost Peugeot,0,1998
+20,Toranosuke Takagi,JPN,Tyrrell Ford,0,1998
+21,Shinji Nakano,JPN,Minardi Ford,0,1998
+22,Esteban Tuero,ARG,Minardi Ford,0,1998
+23,Jos Verstappen,NED,Stewart Ford,0,1998
+1,Jacques Villeneuve,CAN,Williams Renault,81,1997
+DQ,Michael Schumacher,GER,Ferrari,78,1997
+2,Heinz-Harald Frentzen,GER,Williams Renault,42,1997
+3,David Coulthard,GBR,McLaren Mercedes,36,1997
+4,Jean Alesi,FRA,Benetton Renault,36,1997
+5,Gerhard Berger,AUT,Benetton Renault,27,1997
+6,Mika Hakkinen,FIN,McLaren Mercedes,27,1997
+7,Eddie Irvine,GBR,Ferrari,24,1997
+8,Giancarlo Fisichella,ITA,Jordan Peugeot,20,1997
+9,Olivier Panis,FRA,Prost Mugen Honda,16,1997
+10,Johnny Herbert,GBR,Sauber Petronas,15,1997
+11,Ralf Schumacher,GER,Jordan Peugeot,13,1997
+12,Damon Hill,GBR,Arrows Yamaha,7,1997
+13,Rubens Barrichello,BRA,Stewart Ford,6,1997
+14,Alexander Wurz,AUT,Benetton Renault,4,1997
+15,Jarno Trulli,ITA,Prost Mugen Honda,3,1997
+16,Mika Salo,FIN,Tyrrell Ford,2,1997
+17,Pedro Diniz,BRA,Arrows Yamaha,2,1997
+18,Shinji Nakano,JPN,Prost Mugen Honda,2,1997
+19,Nicola Larini,ITA,Sauber Petronas,1,1997
+1,Damon Hill,GBR,Williams Renault,97,1996
+2,Jacques Villeneuve,CAN,Williams Renault,78,1996
+3,Michael Schumacher,GER,Ferrari,59,1996
+4,Jean Alesi,FRA,Benetton Renault,47,1996
+5,Mika Hakkinen,FIN,McLaren Mercedes,31,1996
+6,Gerhard Berger,AUT,Benetton Renault,21,1996
+7,David Coulthard,GBR,McLaren Mercedes,18,1996
+8,Rubens Barrichello,BRA,Jordan Peugeot,14,1996
+9,Olivier Panis,FRA,Ligier Mugen Honda,13,1996
+10,Eddie Irvine,GBR,Ferrari,11,1996
+11,Martin Brundle,GBR,Jordan Peugeot,8,1996
+12,Heinz-Harald Frentzen,GER,Sauber Ford,7,1996
+13,Mika Salo,FIN,Tyrrell Yamaha,5,1996
+14,Johnny Herbert,GBR,Sauber Ford,4,1996
+15,Pedro Diniz,BRA,Ligier Mugen Honda,2,1996
+16,Jos Verstappen,NED,Footwork Hart,1,1996
+1,Michael Schumacher,GER,Benetton Renault,102,1995
+2,Damon Hill,GBR,Williams Renault,69,1995
+3,David Coulthard,GBR,Williams Renault,49,1995
+4,Johnny Herbert,GBR,Benetton Renault,45,1995
+5,Jean Alesi,FRA,Ferrari,42,1995
+6,Gerhard Berger,AUT,Ferrari,31,1995
+7,Mika Hakkinen,FIN,McLaren Mercedes,17,1995
+8,Olivier Panis,FRA,Ligier Mugen Honda,16,1995
+9,Heinz-Harald Frentzen,GER,Sauber Ford,15,1995
+10,Mark Blundell,GBR,McLaren Mercedes,13,1995
+11,Rubens Barrichello,BRA,Jordan Peugeot,11,1995
+12,Eddie Irvine,GBR,Jordan Peugeot,10,1995
+13,Martin Brundle,GBR,Ligier Mugen Honda,7,1995
+14,Gianni Morbidelli,ITA,Footwork Hart,5,1995
+15,Mika Salo,FIN,Tyrrell Yamaha,5,1995
+16,Jean-Christophe Boullion,FRA,Sauber Ford,3,1995
+17,Aguri Suzuki,JPN,Ligier Mugen Honda,1,1995
+18,Pedro Lamy,POR,Minardi Ford,1,1995
+1,Michael Schumacher,GER,Benetton Ford,92,1994
+2,Damon Hill,GBR,Williams Renault,91,1994
+3,Gerhard Berger,AUT,Ferrari,41,1994
+4,Mika Hakkinen,FIN,McLaren Peugeot,26,1994
+5,Jean Alesi,FRA,Ferrari,24,1994
+6,Rubens Barrichello,BRA,Jordan Hart,19,1994
+7,Martin Brundle,GBR,McLaren Peugeot,16,1994
+8,David Coulthard,GBR,Williams Renault,14,1994
+9,Nigel Mansell,GBR,Williams Renault,13,1994
+10,Jos Verstappen,NED,Benetton Ford,10,1994
+11,Olivier Panis,FRA,Ligier Renault,9,1994
+12,Mark Blundell,GBR,Tyrrell Yamaha,8,1994
+13,Heinz-Harald Frentzen,GER,Sauber Mercedes,7,1994
+14,Nicola Larini,ITA,Ferrari,6,1994
+15,Christian Fittipaldi,BRA,Footwork Ford,6,1994
+16,Eddie Irvine,GBR,Jordan Hart,6,1994
+17,Ukyo Katayama,JPN,Tyrrell Yamaha,5,1994
+18,Eric Bernard,FRA,Lotus Mugen Honda,4,1994
+19,Karl Wendlinger,AUT,Sauber Mercedes,4,1994
+20,Andrea de Cesaris,ITA,Sauber Mercedes,4,1994
+21,Pierluigi Martini,ITA,Minardi Ford,4,1994
+22,Gianni Morbidelli,ITA,Footwork Ford,3,1994
+23,Erik Comas,FRA,Larrousse Ford,2,1994
+24,Michele Alboreto,ITA,Minardi Ford,1,1994
+25,Jyrki Jarvilehto,FIN,Sauber Mercedes,1,1994
+1,Alain Prost,FRA,Williams Renault,99,1993
+2,Ayrton Senna,BRA,McLaren Ford,73,1993
+3,Damon Hill,GBR,Williams Renault,69,1993
+4,Michael Schumacher,GER,Benetton Ford,52,1993
+5,Riccardo Patrese,ITA,Benetton Ford,20,1993
+6,Jean Alesi,FRA,Ferrari,16,1993
+7,Martin Brundle,GBR,Ligier Renault,13,1993
+8,Gerhard Berger,AUT,Ferrari,12,1993
+9,Johnny Herbert,GBR,Lotus Ford,11,1993
+10,Mark Blundell,GBR,Ligier Renault,10,1993
+11,Michael Andretti,USA,McLaren Ford,7,1993
+12,Karl Wendlinger,AUT,Sauber,7,1993
+13,Christian Fittipaldi,BRA,Minardi Ford,5,1993
+13,Jyrki Jarvilehto,FIN,Sauber,5,1993
+15,Mika Hakkinen,FIN,McLaren Ford,4,1993
+16,Derek Warwick,GBR,Footwork Mugen Honda,4,1993
+17,Philippe Alliot,FRA,Larrousse Lamborghini,2,1993
+17,Rubens Barrichello,BRA,Jordan Hart,2,1993
+19,Fabrizio Barbazza,ITA,Minardi Ford,2,1993
+20,Alessandro Zanardi,ITA,Lotus Ford,1,1993
+20,Erik Comas,FRA,Larrousse Lamborghini,1,1993
+20,Eddie Irvine,GBR,Jordan Hart,1,1993
+1,Nigel Mansell,GBR,Williams Renault,108,1992
+2,Riccardo Patrese,ITA,Williams Renault,56,1992
+3,Michael Schumacher,GER,Benetton Ford,53,1992
+4,Ayrton Senna,BRA,McLaren Honda,50,1992
+5,Gerhard Berger,AUT,McLaren Honda,49,1992
+6,Martin Brundle,GBR,Benetton Ford,38,1992
+7,Jean Alesi,FRA,Ferrari,18,1992
+8,Mika Hakkinen,FIN,Lotus Ford,11,1992
+9,Andrea de Cesaris,ITA,Tyrrell Ilmor,8,1992
+10,Michele Alboreto,ITA,Footwork Mugen Honda,6,1992
+11,Erik Comas,FRA,Ligier Renault,4,1992
+12,Karl Wendlinger,AUT,March Ilmor,3,1992
+12,Ivan Capelli,ITA,Ferrari,3,1992
+14,Thierry Boutsen,BEL,Ligier Renault,2,1992
+15,Pierluigi Martini,ITA,Dallara Ferrari,2,1992
+16,Johnny Herbert,GBR,Lotus Ford,2,1992
+17,Stefano Modena,ITA,Jordan Yamaha,1,1992
+18,Christian Fittipaldi,BRA,Minardi Lamborghini,1,1992
+19,Bertrand Gachot,FRA,Venturi Lamborghini,1,1992
+1,Ayrton Senna,BRA,McLaren Honda,96,1991
+2,Nigel Mansell,GBR,Williams Renault,72,1991
+3,Riccardo Patrese,ITA,Williams Renault,53,1991
+4,Gerhard Berger,AUT,McLaren Honda,43,1991
+5,Alain Prost,FRA,Ferrari,34,1991
+6,Nelson Piquet,BRA,Benetton Ford,26.5,1991
+7,Jean Alesi,FRA,Ferrari,21,1991
+8,Stefano Modena,ITA,Tyrrell Honda,10,1991
+9,Andrea de Cesaris,ITA,Jordan Ford,9,1991
+10,Roberto Moreno,BRA,Minardi Ferrari,8,1991
+11,Pierluigi Martini,ITA,Minardi Ferrari,6,1991
+12,Jyrki Jarvilehto,FIN,Dallara Judd,4,1991
+12,Bertrand Gachot,FRA,Jordan Ford,4,1991
+12,Michael Schumacher,GER,Benetton Ford,4,1991
+15,Mika Hakkinen,FIN,Lotus Judd,2,1991
+15,Martin Brundle,GBR,Brabham Yamaha,2,1991
+15,Satoru Nakajima,JPN,Tyrrell Honda,2,1991
+18,Julian Bailey,GBR,Lotus Judd,1,1991
+18,Eric Bernard,FRA,Lola Ford,1,1991
+18,Ivan Capelli,ITA,Leyton House Ilmor,1,1991
+18,Aguri Suzuki,JPN,Lola Ford,1,1991
+18,Emanuele Pirro,ITA,Dallara Judd,1,1991
+18,Mark Blundell,GBR,Brabham Yamaha,1,1991
+24,Gianni Morbidelli,ITA,Ferrari,0.5,1991
+1,Ayrton Senna,BRA,McLaren Honda,78,1990
+2,Alain Prost,FRA,Ferrari,71,1990
+3,Nelson Piquet,BRA,Benetton Ford,43,1990
+3,Gerhard Berger,AUT,McLaren Honda,43,1990
+5,Nigel Mansell,GBR,Ferrari,37,1990
+6,Thierry Boutsen,BEL,Williams Renault,34,1990
+7,Riccardo Patrese,ITA,Williams Renault,23,1990
+8,Alessandro Nannini,ITA,Benetton Ford,21,1990
+9,Jean Alesi,FRA,Tyrrell Ford,13,1990
+10,Ivan Capelli,ITA,Leyton House Judd,6,1990
+10,Roberto Moreno,BRA,Benetton Ford,6,1990
+12,Aguri Suzuki,JPN,Lola Lamborghini,6,1990
+13,Eric Bernard,FRA,Lola Lamborghini,5,1990
+14,Derek Warwick,GBR,Lotus Lamborghini,3,1990
+15,Satoru Nakajima,JPN,Tyrrell Ford,3,1990
+16,Alex Caffi,ITA,Arrows Ford,2,1990
+16,Stefano Modena,ITA,Brabham Judd,2,1990
+18,Mauricio Gugelmin,BRA,Leyton House Judd,1,1990
+1,Alain Prost,FRA,McLaren Honda,76,1989
+2,Ayrton Senna,BRA,McLaren Honda,60,1989
+3,Riccardo Patrese,ITA,Williams Renault,40,1989
+4,Nigel Mansell,GBR,Ferrari,38,1989
+5,Thierry Boutsen,BEL,Williams Renault,37,1989
+6,Alessandro Nannini,ITA,Benetton Ford,32,1989
+7,Gerhard Berger,AUT,Ferrari,21,1989
+8,Nelson Piquet,BRA,Lotus Judd,12,1989
+9,Jean Alesi,FRA,Tyrrell Ford,8,1989
+10,Derek Warwick,GBR,Arrows Ford,7,1989
+11,Stefan Johansson,SWE,Onyx Ford,6,1989
+11,Michele Alboreto,ITA,Lola Lamborghini,6,1989
+11,Eddie  Cheever,USA,Arrows Ford,6,1989
+14,Johnny Herbert,GBR,Tyrrell Ford,5,1989
+15,Pierluigi Martini,ITA,Minardi Ford,5,1989
+16,Andrea de Cesaris,ITA,Dallara Ford,4,1989
+16,Mauricio Gugelmin,BRA,March Judd,4,1989
+16,Stefano Modena,ITA,Brabham Judd,4,1989
+19,Alex Caffi,ITA,Dallara Ford,4,1989
+20,Martin Brundle,GBR,Brabham Judd,4,1989
+21,Christian Danner,GER,Rial Ford,3,1989
+21,Satoru Nakajima,JPN,Lotus Judd,3,1989
+23,Rene Arnoux,FRA,Ligier Ford,2,1989
+23,Emanuele Pirro,ITA,Benetton Ford,2,1989
+25,Jonathan  Palmer,GBR,Tyrrell Ford,2,1989
+26,Gabriele Tarquini,ITA,AGS Ford,1,1989
+26,Philippe Alliot,FRA,Lola Lamborghini,1,1989
+26,Olivier Grouillard,FRA,Ligier Ford,1,1989
+26,Luis Perez-Sala,ESP,Minardi Ford,1,1989
+1,Ayrton Senna,BRA,McLaren Honda,90,1988
+2,Alain Prost,FRA,McLaren Honda,87,1988
+3,Gerhard Berger,AUT,Ferrari,41,1988
+4,Thierry Boutsen,BEL,Benetton Ford,27,1988
+5,Michele Alboreto,ITA,Ferrari,24,1988
+6,Nelson Piquet,BRA,Lotus Honda,22,1988
+7,Ivan Capelli,ITA,March Judd,17,1988
+8,Derek Warwick,GBR,Arrows Megatron,17,1988
+9,Nigel Mansell,GBR,Williams Judd,12,1988
+10,Alessandro Nannini,ITA,Benetton Ford,12,1988
+11,Riccardo Patrese,ITA,Williams Judd,8,1988
+12,Eddie  Cheever,USA,Arrows Megatron,6,1988
+13,Mauricio Gugelmin,BRA,March Judd,5,1988
+14,Jonathan  Palmer,GBR,Tyrrell Ford,5,1988
+15,Andrea de Cesaris,ITA,Rial Ford,3,1988
+16,Pierluigi Martini,ITA,Minardi Ford,1,1988
+17,Satoru Nakajima,JPN,Lotus Honda,1,1988
+1,Nelson Piquet,BRA,Williams Honda,73,1987
+2,Nigel Mansell,GBR,Williams Honda,61,1987
+3,Ayrton Senna,BRA,Lotus Honda,57,1987
+4,Alain Prost,FRA,McLaren TAG,46,1987
+5,Gerhard Berger,AUT,Ferrari,36,1987
+6,Stefan Johansson,SWE,McLaren TAG,30,1987
+7,Michele Alboreto,ITA,Ferrari,17,1987
+8,Thierry Boutsen,BEL,Benetton Ford,16,1987
+9,Teo Fabi,ITA,Benetton Ford,12,1987
+10,Eddie  Cheever,USA,Arrows Megatron,8,1987
+11,Jonathan  Palmer,GBR,Tyrrell Ford,7,1987
+12,Satoru Nakajima,JPN,Lotus Honda,7,1987
+13,Riccardo Patrese,ITA,Williams Honda,6,1987
+14,Andrea de Cesaris,ITA,Brabham BMW,4,1987
+15,Philippe Streiff,FRA,Tyrrell Ford,4,1987
+16,Derek Warwick,GBR,Arrows Megatron,3,1987
+17,Philippe Alliot,FRA,Lola Ford,3,1987
+18,Martin Brundle,GBR,Zakspeed,2,1987
+19,Rene Arnoux,FRA,Ligier Megatron,1,1987
+20,Ivan Capelli,ITA,March Ford,1,1987
+21,Roberto Moreno,BRA,AGS Ford,1,1987
+1,Alain Prost,FRA,McLaren TAG,72,1986
+2,Nigel Mansell,GBR,Williams Honda,70,1986
+3,Nelson Piquet,BRA,Williams Honda,69,1986
+4,Ayrton Senna,BRA,Lotus Renault,55,1986
+5,Stefan Johansson,SWE,Ferrari,23,1986
+6,Keke Rosberg,FIN,McLaren TAG,22,1986
+7,Gerhard Berger,AUT,Benetton BMW,17,1986
+8,Jacques Laffite,FRA,Ligier Renault,14,1986
+9,Michele Alboreto,ITA,Ferrari,14,1986
+10,Rene Arnoux,FRA,Ligier Renault,14,1986
+11,Martin Brundle,GBR,Tyrrell Renault,8,1986
+12,Alan  Jones,AUS,Lola Ford,4,1986
+13,Johnny Dumfries,GBR,Lotus Renault,3,1986
+14,Philippe Streiff,FRA,Tyrrell Renault,3,1986
+15,Teo Fabi,ITA,Benetton BMW,2,1986
+16,Patrick Tambay,FRA,Lola Ford,2,1986
+17,Riccardo Patrese,ITA,Brabham BMW,2,1986
+18,Philippe Alliot,FRA,Ligier Renault,1,1986
+19,Christian Danner,GER,Arrows BMW,1,1986
+1,Alain Prost,FRA,McLaren TAG,73,1985
+2,Michele Alboreto,ITA,Ferrari,53,1985
+3,Keke Rosberg,FIN,Williams Honda,40,1985
+4,Ayrton Senna,BRA,Lotus Renault,38,1985
+5,Elio de Angelis,ITA,Lotus Renault,33,1985
+6,Nigel Mansell,GBR,Williams Honda,31,1985
+7,Stefan Johansson,SWE,Ferrari,26,1985
+8,Nelson Piquet,BRA,Brabham BMW,21,1985
+9,Jacques Laffite,FRA,Ligier Renault,16,1985
+10,Niki Lauda,AUT,McLaren TAG,14,1985
+11,Thierry Boutsen,BEL,Arrows BMW,11,1985
+12,Patrick Tambay,FRA,Renault,11,1985
+13,Marc Surer,SUI,Brabham BMW,5,1985
+14,Derek Warwick,GBR,Renault,5,1985
+15,Philippe Streiff,FRA,Ligier Renault,4,1985
+16,Stefan Bellof,GER,Tyrrell Renault,4,1985
+17,Andrea de Cesaris,ITA,Ligier Renault,3,1985
+18,Rene Arnoux,FRA,Ferrari,3,1985
+19,Ivan Capelli,ITA,Tyrrell Renault,3,1985
+20,Gerhard Berger,AUT,Arrows BMW,3,1985
+1,Niki Lauda,AUT,McLaren TAG,72,1984
+2,Alain Prost,FRA,McLaren TAG,71.5,1984
+3,Elio de Angelis,ITA,Lotus Renault,34,1984
+4,Michele Alboreto,ITA,Ferrari,30.5,1984
+5,Nelson Piquet,BRA,Brabham BMW,29,1984
+6,Rene Arnoux,FRA,Ferrari,27,1984
+7,Derek Warwick,GBR,Renault,23,1984
+8,Keke Rosberg,FIN,Williams Honda,20.5,1984
+9,Ayrton Senna,BRA,Toleman Hart,13,1984
+10,Nigel Mansell,GBR,Lotus Renault,13,1984
+11,Patrick Tambay,FRA,Renault,11,1984
+12,Teo Fabi,ITA,Brabham BMW,9,1984
+13,Riccardo Patrese,ITA,Alfa Romeo,8,1984
+14,Jacques Laffite,FRA,Williams Honda,5,1984
+15,Thierry Boutsen,BEL,Arrows BMW,5,1984
+16,Eddie  Cheever,USA,Alfa Romeo,3,1984
+17,Stefan Johansson,SWE,Toleman Hart,3,1984
+18,Andrea de Cesaris,ITA,Ligier Renault,3,1984
+19,Piercarlo Ghinzani,ITA,Osella Alfa Romeo,2,1984
+20,Marc Surer,SUI,Arrows BMW,1,1984
+1,Nelson Piquet,BRA,Brabham BMW,59,1983
+2,Alain Prost,FRA,Renault,57,1983
+3,Rene Arnoux,FRA,Ferrari,49,1983
+4,Patrick Tambay,FRA,Ferrari,40,1983
+5,Keke Rosberg,FIN,Williams Honda,27,1983
+6,John Watson,GBR,McLaren Ford,22,1983
+7,Eddie  Cheever,USA,Renault,22,1983
+8,Andrea de Cesaris,ITA,Alfa Romeo,15,1983
+9,Riccardo Patrese,ITA,Brabham BMW,13,1983
+10,Niki Lauda,AUT,McLaren TAG,12,1983
+11,Jacques Laffite,FRA,Williams Honda,11,1983
+12,Michele Alboreto,ITA,Tyrrell Ford,10,1983
+13,Nigel Mansell,GBR,Lotus Renault,10,1983
+14,Derek Warwick,GBR,Toleman Hart,9,1983
+15,Marc Surer,SUI,Arrows Ford,4,1983
+16,Mauro Baldi,ITA,Alfa Romeo,3,1983
+17,Elio de Angelis,ITA,Lotus Renault,2,1983
+18,Danny Sullivan,USA,Tyrrell Ford,2,1983
+19,Bruno Giacomelli,ITA,Toleman Hart,1,1983
+20,Johnny Cecotto,VEN,Theodore Ford,1,1983
+1,Keke Rosberg,FIN,Williams Ford,44,1982
+2,Didier Pironi,FRA,Ferrari,39,1982
+2,John Watson,GBR,McLaren Ford,39,1982
+4,Alain Prost,FRA,Renault,34,1982
+5,Niki Lauda,AUT,McLaren Ford,30,1982
+6,Rene Arnoux,FRA,Renault,28,1982
+7,Patrick Tambay,FRA,Ferrari,25,1982
+7,Michele Alboreto,ITA,Tyrrell Ford,25,1982
+9,Elio de Angelis,ITA,Lotus Ford,23,1982
+10,Riccardo Patrese,ITA,Brabham BMW,21,1982
+11,Nelson Piquet,BRA,Brabham BMW,20,1982
+12,Eddie  Cheever,USA,Ligier Matra,15,1982
+13,Derek Daly,IRL,Williams Ford,8,1982
+14,Nigel Mansell,GBR,Lotus Ford,7,1982
+15,Carlos Reutemann,ARG,Williams Ford,6,1982
+15,Gilles Villeneuve,CAN,Ferrari,6,1982
+17,Andrea de Cesaris,ITA,Alfa Romeo,5,1982
+17,Jacques Laffite,FRA,Ligier Matra,5,1982
+19,Mario Andretti,USA,Ferrari,4,1982
+20,Jean-Pierre Jarier,FRA,Osella Ford,3,1982
+20,Marc Surer,SUI,Arrows Ford,3,1982
+22,Manfred Winkelhock,GER,ATS Ford,2,1982
+22,Eliseo Salazar,CHI,ATS Ford,2,1982
+22,Bruno Giacomelli,ITA,Alfa Romeo,2,1982
+22,Mauro Baldi,ITA,Arrows Ford,2,1982
+26,Chico Serra,BRA,Fittipaldi Ford,1,1982
+1,Nelson Piquet,BRA,Brabham Ford,50,1981
+2,Carlos Reutemann,ARG,Williams Ford,49,1981
+3,Alan  Jones,AUS,Williams Ford,46,1981
+4,Jacques Laffite,FRA,Ligier Matra,44,1981
+5,Alain Prost,FRA,Renault,43,1981
+6,John Watson,GBR,McLaren Ford,27,1981
+7,Gilles Villeneuve,CAN,Ferrari,25,1981
+8,Elio de Angelis,ITA,Lotus Ford,14,1981
+9,Rene Arnoux,FRA,Renault,11,1981
+9,Hector Rebaque,MEX,Brabham Ford,11,1981
+11,Riccardo Patrese,ITA,Arrows Ford,10,1981
+11,Eddie  Cheever,USA,Tyrrell Ford,10,1981
+13,Didier Pironi,FRA,Ferrari,9,1981
+14,Nigel Mansell,GBR,Lotus Ford,8,1981
+15,Bruno Giacomelli,ITA,Alfa Romeo,7,1981
+16,Marc Surer,SUI,Theodore Ford,4,1981
+17,Mario Andretti,USA,Alfa Romeo,3,1981
+18,Patrick Tambay,FRA,Ligier Matra,1,1981
+18,Andrea de Cesaris,ITA,McLaren Ford,1,1981
+18,Slim Borgudd,SWE,ATS Ford,1,1981
+18,Eliseo Salazar,CHI,Ensign Ford,1,1981
+1,Alan  Jones,AUS,Williams Ford,67,1980
+2,Nelson Piquet,BRA,Brabham Ford,54,1980
+3,Carlos Reutemann,ARG,Williams Ford,42,1980
+4,Jacques Laffite,FRA,Ligier Ford,34,1980
+5,Didier Pironi,FRA,Ligier Ford,32,1980
+6,Rene Arnoux,FRA,Renault,29,1980
+7,Elio de Angelis,ITA,Lotus Ford,13,1980
+8,Jean-Pierre Jabouille,FRA,Renault,9,1980
+9,Riccardo Patrese,ITA,Arrows Ford,7,1980
+10,Keke Rosberg,FIN,Fittipaldi Ford,6,1980
+10,Derek Daly,IRL,Tyrrell Ford,6,1980
+10,John Watson,GBR,McLaren Ford,6,1980
+10,Jean-Pierre Jarier,FRA,Tyrrell Ford,6,1980
+10,Gilles Villeneuve,CAN,Ferrari,6,1980
+15,Emerson Fittipaldi,BRA,Fittipaldi Ford,5,1980
+15,Alain Prost,FRA,McLaren Ford,5,1980
+17,Jochen Mass,GER,Arrows Ford,4,1980
+17,Bruno Giacomelli,ITA,Alfa Romeo,4,1980
+19,Jody Scheckter,RSA,Ferrari,2,1980
+20,Hector Rebaque,MEX,Brabham Ford,1,1980
+20,Mario Andretti,USA,Lotus Ford,1,1980
+1,Jody Scheckter,RSA,Ferrari,51,1979
+2,Gilles Villeneuve,CAN,Ferrari,47,1979
+3,Alan  Jones,AUS,Williams Ford,40,1979
+4,Jacques Laffite,FRA,Ligier Ford,36,1979
+5,Clay Regazzoni,SUI,Williams Ford,29,1979
+6,Patrick Depailler,FRA,Ligier Ford,20,1979
+6,Carlos Reutemann,ARG,Lotus Ford,20,1979
+8,Rene Arnoux,FRA,Renault,17,1979
+9,John Watson,GBR,McLaren Ford,15,1979
+10,Didier Pironi,FRA,Tyrrell Ford,14,1979
+10,Jean-Pierre Jarier,FRA,Tyrrell Ford,14,1979
+10,Mario Andretti,USA,Lotus Ford,14,1979
+13,Jean-Pierre Jabouille,FRA,Renault,9,1979
+14,Niki Lauda,AUT,Brabham Ford,4,1979
+15,Nelson Piquet,BRA,Brabham Ford,3,1979
+15,Elio de Angelis,ITA,Shadow Ford,3,1979
+15,Jacky Ickx,BEL,Ligier Ford,3,1979
+15,Jochen Mass,GER,Arrows Ford,3,1979
+19,Riccardo Patrese,ITA,Arrows Ford,2,1979
+19,Hans-Joachim Stuck,GER,ATS Ford,2,1979
+21,Emerson Fittipaldi,BRA,Fittipaldi Ford,1,1979
+1,Mario Andretti,USA,Lotus Ford,64,1978
+2,Ronnie Peterson,SWE,Lotus Ford,51,1978
+3,Carlos Reutemann,ARG,Ferrari,48,1978
+4,Niki Lauda,AUT,Brabham Alfa Romeo,44,1978
+5,Patrick Depailler,FRA,Tyrrell Ford,34,1978
+6,John Watson,GBR,Brabham Alfa Romeo,25,1978
+7,Jody Scheckter,RSA,Wolf Ford,24,1978
+8,Jacques Laffite,FRA,Ligier Matra,19,1978
+9,Gilles Villeneuve,CAN,Ferrari,17,1978
+9,Emerson Fittipaldi,BRA,Fittipaldi Ford,17,1978
+11,Alan  Jones,AUS,Williams Ford,11,1978
+11,Riccardo Patrese,ITA,Arrows Ford,11,1978
+13,James Hunt,GBR,McLaren Ford,8,1978
+13,Patrick Tambay,FRA,McLaren Ford,8,1978
+15,Didier Pironi,FRA,Tyrrell Ford,7,1978
+16,Clay Regazzoni,SUI,Shadow Ford,4,1978
+17,Jean-Pierre Jabouille,FRA,Renault,3,1978
+18,Hans-Joachim Stuck,GER,Shadow Ford,2,1978
+19,Hector Rebaque,MEX,Lotus Ford,1,1978
+19,Vittorio Brambilla,ITA,Surtees Ford,1,1978
+19,Derek Daly,IRL,Ensign Ford,1,1978
+1,Niki Lauda,AUT,Ferrari,72,1977
+2,Jody Scheckter,RSA,Wolf Ford,55,1977
+3,Mario Andretti,USA,Lotus Ford,47,1977
+4,Carlos Reutemann,ARG,Ferrari,42,1977
+5,James Hunt,GBR,McLaren Ford,40,1977
+6,Jochen Mass,GER,McLaren Ford,25,1977
+7,Alan  Jones,AUS,Shadow Ford,22,1977
+8,Gunnar Nilsson,SWE,Lotus Ford,20,1977
+8,Patrick Depailler,FRA,Tyrrell Ford,20,1977
+10,Jacques Laffite,FRA,Ligier Matra,18,1977
+11,Hans-Joachim Stuck,GER,Brabham Alfa Romeo,12,1977
+12,Emerson Fittipaldi,BRA,Fittipaldi Ford,11,1977
+13,John Watson,GBR,Brabham Alfa Romeo,9,1977
+14,Ronnie Peterson,SWE,Tyrrell Ford,7,1977
+15,Carlos Pace,BRA,Brabham Alfa Romeo,6,1977
+15,Vittorio Brambilla,ITA,Surtees Ford,6,1977
+17,Patrick Tambay,FRA,Ensign Ford,5,1977
+17,Clay Regazzoni,SUI,Ensign Ford,5,1977
+19,Renzo Zorzi,ITA,Shadow Ford,1,1977
+19,Jean-Pierre Jarier,FRA,Ligier Matra,1,1977
+19,Riccardo Patrese,ITA,Shadow Ford,1,1977
+1,James Hunt,GBR,McLaren Ford,69,1976
+2,Niki Lauda,AUT,Ferrari,68,1976
+3,Jody Scheckter,RSA,Tyrrell Ford,49,1976
+4,Patrick Depailler,FRA,Tyrrell Ford,39,1976
+5,Clay Regazzoni,SUI,Ferrari,31,1976
+6,Mario Andretti,USA,Lotus Ford,22,1976
+7,John Watson,GBR,Penske Ford,20,1976
+7,Jacques Laffite,FRA,Ligier Matra,20,1976
+9,Jochen Mass,GER,McLaren Ford,19,1976
+10,Gunnar Nilsson,SWE,Lotus Ford,11,1976
+11,Ronnie Peterson,SWE,March Ford,10,1976
+11,Tom Pryce,GBR,Shadow Ford,10,1976
+13,Hans-Joachim Stuck,GER,March Ford,8,1976
+14,Carlos Pace,BRA,Brabham Alfa Romeo,7,1976
+14,Alan  Jones,AUS,Surtees Ford,7,1976
+16,Carlos Reutemann,ARG,Ferrari,3,1976
+16,Emerson Fittipaldi,BRA,Fittipaldi Ford,3,1976
+18,Chris Amon,NZL,Wolf-Williams,2,1976
+19,Rolf Stommelen,GER,Brabham Alfa Romeo,1,1976
+19,Vittorio Brambilla,ITA,March Ford,1,1976
+1,Niki Lauda,AUT,Ferrari,64.5,1975
+2,Emerson Fittipaldi,BRA,McLaren Ford,45,1975
+3,Carlos Reutemann,ARG,Brabham Ford,37,1975
+4,James Hunt,GBR,Hesketh Ford,33,1975
+5,Clay Regazzoni,SUI,Ferrari,25,1975
+6,Carlos Pace,BRA,Brabham Ford,24,1975
+7,Jody Scheckter,RSA,Tyrrell Ford,20,1975
+7,Jochen Mass,GER,McLaren Ford,20,1975
+9,Patrick Depailler,FRA,Tyrrell Ford,12,1975
+10,Tom Pryce,GBR,Shadow Ford,8,1975
+11,Vittorio Brambilla,ITA,March Ford,6.5,1975
+12,Jacques Laffite,FRA,Frank Williams Racing Cars/Williams,6,1975
+12,Ronnie Peterson,SWE,Lotus Ford,6,1975
+14,Mario Andretti,USA,Parnelli Ford,5,1975
+15,Mark Donohue,USA,March Ford,4,1975
+16,Jacky Ickx,BEL,Lotus Ford,3,1975
+17,Alan  Jones,AUS,Hill Ford,2,1975
+18,Jean-Pierre Jarier,FRA,Shadow Ford,1.5,1975
+19,Tony Brise,GBR,Hill Ford,1,1975
+19,Gijs van Lennep,NED,Ensign Ford,1,1975
+21,Lella Lombardi,ITA,Frank Williams Racing Cars/Williams,0.5,1975
+1,Emerson Fittipaldi,BRA,McLaren Ford,55,1974
+2,Clay Regazzoni,SUI,Ferrari,52,1974
+3,Jody Scheckter,RSA,Tyrrell Ford,45,1974
+4,Niki Lauda,AUT,Ferrari,38,1974
+5,Ronnie Peterson,SWE,Lotus Ford,35,1974
+6,Carlos Reutemann,ARG,Brabham Ford,32,1974
+7,Denny Hulme,NZL,McLaren Ford,20,1974
+8,James Hunt,GBR,Hesketh Ford,15,1974
+9,Patrick Depailler,FRA,Tyrrell Ford,14,1974
+10,Jacky Ickx,BEL,Lotus Ford,12,1974
+10,Mike Hailwood,GBR,McLaren Ford,12,1974
+12,Carlos Pace,BRA,Brabham Ford,11,1974
+13,Jean-Pierre Beltoise,FRA,BRM,10,1974
+14,Jean-Pierre Jarier,FRA,Shadow Ford,6,1974
+14,John Watson,GBR,Brabham Ford,6,1974
+16,Hans-Joachim Stuck,GER,March Ford,5,1974
+17,Arturo Merzario,ITA,Iso Marlboro Ford,4,1974
+18,Graham Hill,GBR,Lola Ford,1,1974
+18,Tom Pryce,GBR,Shadow Ford,1,1974
+18,Vittorio Brambilla,ITA,March Ford,1,1974
+1,Jackie Stewart,GBR,Tyrrell Ford,71,1973
+2,Emerson Fittipaldi,BRA,Lotus Ford,55,1973
+3,Ronnie Peterson,SWE,Lotus Ford,52,1973
+4,Francois  Cevert ,FRA,Tyrrell Ford,47,1973
+5,Peter   Revson,USA,McLaren Ford,38,1973
+6,Denny Hulme,NZL,McLaren Ford,26,1973
+7,Carlos Reutemann,ARG,Brabham Ford,16,1973
+8,James Hunt,GBR,March Ford,14,1973
+9,Jacky Ickx,BEL,Iso Marlboro Ford,12,1973
+10,Jean-Pierre Beltoise,FRA,BRM,9,1973
+11,Carlos Pace,BRA,Surtees Ford,7,1973
+12,Arturo Merzario,ITA,Ferrari,6,1973
+13,George  Follmer ,USA,Shadow Ford,5,1973
+14,Jackie Oliver,GBR,Shadow Ford,4,1973
+15,Andrea de Adamich ,ITA,Brabham Ford,3,1973
+15,Wilson Fittipaldi,BRA,Brabham Ford,3,1973
+17,Niki Lauda,AUT,BRM,2,1973
+17,Clay Regazzoni,SUI,BRM,2,1973
+19,Chris Amon,NZL,Tyrrell Ford,1,1973
+19,Gijs van Lennep,NED,Iso Marlboro Ford,1,1973
+19,Howden  Ganley ,NZL,Iso Marlboro Ford,1,1973
+1,Emerson Fittipaldi,BRA,Lotus Ford,61,1972
+2,Jackie Stewart,GBR,Tyrrell Ford,45,1972
+3,Denny Hulme,NZL,McLaren Ford,39,1972
+4,Jacky Ickx,BEL,Ferrari,27,1972
+5,Peter   Revson,USA,McLaren Ford,23,1972
+6,Francois  Cevert ,FRA,Tyrrell Ford,15,1972
+6,Clay Regazzoni,SUI,Ferrari,15,1972
+8,Mike Hailwood,GBR,Surtees Ford,13,1972
+9,Ronnie Peterson,SWE,March Ford,12,1972
+9,Chris Amon,NZL,Matra,12,1972
+11,Jean-Pierre Beltoise,FRA,BRM,9,1972
+12,Mario Andretti,USA,Ferrari,4,1972
+12,Howden  Ganley ,NZL,BRM,4,1972
+12,Brian   Redman,GBR,BRM,4,1972
+12,Graham Hill,GBR,Brabham Ford,4,1972
+16,Andrea de Adamich ,ITA,Surtees Ford,3,1972
+16,Carlos Reutemann,ARG,Brabham Ford,3,1972
+16,Carlos Pace,BRA,March Ford,3,1972
+19,Tim   Schenken,AUS,Surtees Ford,2,1972
+20,Arturo Merzario,ITA,Ferrari,1,1972
+20,Peter  Gethin ,GBR,BRM,1,1972
+1,Jackie Stewart,GBR,Tyrrell Ford,62,1971
+2,Ronnie Peterson,SWE,null,33,1971
+3,Francois  Cevert ,FRA,Tyrrell Ford,26,1971
+4,Jacky Ickx,BEL,Ferrari,19,1971
+4,Jo Siffert,SUI,BRM,19,1971
+6,Emerson Fittipaldi,BRA,Lotus Ford,16,1971
+7,Clay Regazzoni,SUI,Ferrari,13,1971
+8,Mario Andretti,USA,Ferrari,12,1971
+9,Peter  Gethin ,GBR,BRM,9,1971
+9,Pedro Rodriguez,MEX,BRM,9,1971
+9,Chris Amon,NZL,Matra,9,1971
+9,Reine   Wisell,SWE,Lotus Ford,9,1971
+9,Denny Hulme,NZL,McLaren Ford,9,1971
+14,Tim   Schenken,AUS,Brabham Ford,5,1971
+14,Howden  Ganley ,NZL,BRM,5,1971
+16,Mark Donohue,USA,null,4,1971
+16,Henri Pescarolo,FRA,null,4,1971
+18,Mike Hailwood,GBR,Surtees Ford,3,1971
+18,John Surtees,GBR,Surtees Ford,3,1971
+18,Rolf Stommelen,GER,Surtees Ford,3,1971
+21,Graham Hill,GBR,Brabham Ford,2,1971
+22,Jean-Pierre Beltoise,FRA,Matra,1,1971
+1,Jochen Rindt,AUT,Lotus Ford,45,1970
+2,Jacky Ickx,BEL,Ferrari,40,1970
+3,Clay Regazzoni,SUI,Ferrari,33,1970
+4,Denny Hulme,NZL,McLaren Ford,27,1970
+5,Jack Brabham,AUS,Brabham Ford,25,1970
+5,Jackie Stewart,GBR,Tyrrell Ford,25,1970
+7,Pedro Rodriguez,MEX,BRM,23,1970
+7,Chris Amon,NZL,March Ford,23,1970
+9,Jean-Pierre Beltoise,FRA,Matra,16,1970
+10,Emerson Fittipaldi,BRA,Lotus Ford,12,1970
+11,Rolf Stommelen,GER,Brabham Ford,10,1970
+12,Henri Pescarolo,FRA,Matra,8,1970
+13,Graham Hill,GBR,Lotus Ford,7,1970
+14,Bruce McLaren,NZL,McLaren Ford,6,1970
+15,Mario Andretti,USA,March Ford,4,1970
+15,Reine   Wisell,SWE,Lotus Ford,4,1970
+17,Ignazio  Giunti ,ITA,Ferrari,3,1970
+17,John Surtees,GBR,Surtees Ford,3,1970
+19,John   Miles,GBR,Lotus Ford,2,1970
+19,Johnny  Servoz-Gavin ,FRA,March Ford,2,1970
+19,Jackie Oliver,GBR,BRM,2,1970
+22,Dan Gurney,USA,McLaren Ford,1,1970
+22,Francois  Cevert ,FRA,March Ford,1,1970
+22,Peter  Gethin ,GBR,McLaren Ford,1,1970
+22,Derek Bell,GBR,Surtees Ford,1,1970
+1,Jackie Stewart,GBR,Matra Ford,63,1969
+2,Jacky Ickx,BEL,Brabham Ford,37,1969
+3,Bruce McLaren,NZL,McLaren Ford,26,1969
+4,Jochen Rindt,AUT,Lotus Ford,22,1969
+5,Jean-Pierre Beltoise,FRA,Matra Ford,21,1969
+6,Denny Hulme,NZL,McLaren Ford,20,1969
+7,Graham Hill,GBR,Lotus Ford,19,1969
+8,Piers   Courage,GBR,Brabham Ford,16,1969
+9,Jo Siffert,SUI,Lotus Ford,15,1969
+10,Jack Brabham,AUS,Brabham Ford,14,1969
+11,John Surtees,GBR,BRM,6,1969
+12,Chris Amon,NZL,Ferrari,4,1969
+13,Richard Attwood,GBR,null,3,1969
+13,Vic  Elford ,GBR,McLaren Ford,3,1969
+13,Pedro Rodriguez,MEX,Ferrari,3,1969
+16,Johnny  Servoz-Gavin ,FRA,Matra Ford,1,1969
+16,Silvio  Moser ,SUI,Brabham Ford,1,1969
+16,Jackie Oliver,GBR,BRM,1,1969
+1,Graham Hill,GBR,Lotus Ford,48,1968
+2,Jackie Stewart,GBR,Matra Ford,36,1968
+3,Denny Hulme,NZL,McLaren Ford,33,1968
+4,Jacky Ickx,BEL,Ferrari,27,1968
+5,Bruce McLaren,NZL,McLaren Ford,22,1968
+6,Pedro Rodriguez,MEX,BRM,18,1968
+7,Jo Siffert,SUI,Lotus Ford,12,1968
+7,John Surtees,GBR,Honda,12,1968
+9,Jean-Pierre Beltoise,FRA,Matra,11,1968
+10,Chris Amon,NZL,Ferrari,10,1968
+11,Jim Clark,GBR,Lotus Ford,9,1968
+12,Jochen Rindt,AUT,Brabham Repco,8,1968
+13,Richard Attwood,GBR,BRM,6,1968
+13,Johnny  Servoz-Gavin ,FRA,Matra Ford,6,1968
+13,Jackie Oliver,GBR,Lotus Ford,6,1968
+13,Ludovico Scarfiotti,ITA,Cooper BRM,6,1968
+17,Lucien Bianchi,BEL,Cooper BRM,5,1968
+17,Vic  Elford ,GBR,Cooper BRM,5,1968
+19,Brian   Redman,GBR,Cooper BRM,4,1968
+19,Piers   Courage,GBR,BRM,4,1968
+21,Dan Gurney,USA,McLaren Ford,3,1968
+21,Jo Bonnier,SWE,Honda,3,1968
+23,Silvio  Moser ,SUI,Brabham Repco,2,1968
+23,Jack Brabham,AUS,Brabham Repco,2,1968
+1,Denny Hulme,NZL,Brabham Repco,51,1967
+2,Jack Brabham,AUS,Brabham Repco,46,1967
+3,Jim Clark,GBR,Lotus Ford,41,1967
+4,John Surtees,GBR,Honda,20,1967
+4,Chris Amon,NZL,Ferrari,20,1967
+6,Pedro Rodriguez,MEX,Cooper Maserati,15,1967
+6,Graham Hill,GBR,Lotus Ford,15,1967
+8,Dan Gurney,USA,Eagle Climax,13,1967
+9,Jackie Stewart,GBR,BRM,10,1967
+10,Mike Spence,GBR,BRM,9,1967
+11,John Love,RHO,Cooper Climax,6,1967
+11,Jochen Rindt,AUT,Cooper Maserati,6,1967
+11,Jo Siffert,SUI,Cooper Maserati,6,1967
+14,Bruce McLaren,NZL,McLaren BRM,3,1967
+14,Jo Bonnier,SWE,Cooper Maserati,3,1967
+16,Bob Anderson,GBR,Brabham Climax,2,1967
+16,Mike  Parkes ,GBR,Ferrari,2,1967
+16,Chris   Irwin,GBR,BRM,2,1967
+19,Ludovico Scarfiotti,ITA,Eagle Weslake,1,1967
+19,Guy  Ligier ,FRA,Brabham Repco,1,1967
+19,Jacky Ickx,BEL,Cooper Maserati,1,1967
+1,Jack Brabham,AUS,Brabham Repco,42,1966
+2,John Surtees,GBR,Cooper Maserati,28,1966
+3,Jochen Rindt,AUT,Cooper Maserati,22,1966
+4,Denny Hulme,NZL,Brabham Repco,18,1966
+5,Graham Hill,GBR,BRM,17,1966
+6,Jim Clark,GBR,Lotus BRM,16,1966
+7,Jackie Stewart,GBR,BRM,14,1966
+8,Mike  Parkes ,GBR,Ferrari,12,1966
+8,Lorenzo Bandini,ITA,Ferrari,12,1966
+10,Ludovico Scarfiotti,ITA,Ferrari,9,1966
+11,Richie Ginther,USA,Honda,5,1966
+12,Dan Gurney,USA,Eagle Climax,4,1966
+12,Mike Spence,GBR,Lotus BRM,4,1966
+14,Bob Bondurant,USA,Eagle Weslake,3,1966
+14,Jo Siffert,SUI,Cooper Maserati,3,1966
+14,Bruce McLaren,NZL,McLaren Ford,3,1966
+17,John  Taylor ,GBR,Brabham BRM,1,1966
+17,Bob Anderson,GBR,Brabham Climax,1,1966
+17,Peter  Arundell ,GBR,Lotus BRM,1,1966
+17,Jo Bonnier,SWE,Cooper Maserati,1,1966
+1,Jim Clark,GBR,Lotus Climax,54,1965
+2,Graham Hill,GBR,BRM,40,1965
+3,Jackie Stewart,GBR,BRM,33,1965
+4,Dan Gurney,USA,Brabham Climax,25,1965
+5,John Surtees,GBR,Ferrari,17,1965
+6,Lorenzo Bandini,ITA,Ferrari,13,1965
+7,Richie Ginther,USA,Honda,11,1965
+8,Mike Spence,GBR,Lotus Climax,10,1965
+8,Bruce McLaren,NZL,Cooper Climax,10,1965
+10,Jack Brabham,AUS,Brabham Climax,9,1965
+11,Denny Hulme,NZL,Brabham Climax,5,1965
+11,Jo Siffert,SUI,Brabham BRM,5,1965
+13,Jochen Rindt,AUT,Cooper Climax,4,1965
+14,Pedro Rodriguez,MEX,Ferrari,2,1965
+14,Ronnie Bucknum,USA,Honda,2,1965
+14,Richard Attwood,GBR,Lotus BRM,2,1965
+1,John Surtees,GBR,Ferrari,40,1964
+2,Graham Hill,GBR,BRM,39,1964
+3,Jim Clark,GBR,Lotus Climax,32,1964
+4,Lorenzo Bandini,ITA,Ferrari,23,1964
+4,Richie Ginther,USA,BRM,23,1964
+6,Dan Gurney,USA,Brabham Climax,19,1964
+7,Bruce McLaren,NZL,Cooper Climax,13,1964
+8,Peter  Arundell ,GBR,Lotus Climax,11,1964
+8,Jack Brabham,AUS,Brabham Climax,11,1964
+10,Jo Siffert,SUI,Brabham BRM,7,1964
+11,Bob Anderson,GBR,Brabham Climax,5,1964
+12,Tony Maggs,RSA,BRM,4,1964
+12,Mike Spence,GBR,Lotus Climax,4,1964
+12,Innes Ireland,GBR,BRP BRM,4,1964
+15,Jo Bonnier,SWE,Brabham Climax,3,1964
+16,Chris Amon,NZL,Lotus BRM,2,1964
+16,Maurice  Trintignant,FRA,BRM,2,1964
+16,Walt   Hansgen,USA,Lotus Climax,2,1964
+19,Mike Hailwood,GBR,Lotus BRM,1,1964
+19,Phil Hill,USA,Cooper Climax,1,1964
+19,Trevor  Taylor ,GBR,BRP BRM,1,1964
+19,Pedro Rodriguez,MEX,Ferrari,1,1964
+1,Jim Clark,GBR,Lotus Climax,54,1963
+2,Graham Hill,GBR,BRM,29,1963
+2,Richie Ginther,USA,BRM,29,1963
+4,John Surtees,GBR,Ferrari,22,1963
+5,Dan Gurney,USA,Brabham Climax,19,1963
+6,Bruce McLaren,NZL,Cooper Climax,17,1963
+7,Jack Brabham,AUS,Brabham Climax,14,1963
+8,Tony Maggs,RSA,Cooper Climax,9,1963
+9,Innes Ireland,GBR,BRP BRM,6,1963
+9,Lorenzo Bandini,ITA,Ferrari,6,1963
+9,Jo Bonnier,SWE,Cooper Climax,6,1963
+12,Gerhard Mitter,GER,Porsche,3,1963
+12,Jim  Hall ,USA,Lotus BRM,3,1963
+14,Carel Godin de Beaufort ,NED,Porsche,2,1963
+15,Trevor  Taylor ,GBR,Lotus Climax,1,1963
+15,Ludovico Scarfiotti,ITA,Ferrari,1,1963
+15,Jo Siffert,SUI,Lotus BRM,1,1963
+18,Willy Mairesse,BEL,Ferrari,0,1963
+18,Maurice  Trintignant,FRA,BRM,0,1963
+18,Tony  Settember ,USA,Scirocco BRM,0,1963
+18,Lucien Bianchi,BEL,Lola Climax,0,1963
+18,Phil Hill,USA,ATS,0,1963
+18,Giancarlo Baghetti,ITA,ATS,0,1963
+18,Chris Amon,NZL,Lotus BRM,0,1963
+18,Masten Gregory,USA,null,0,1963
+18,Bob Anderson,GBR,Lola Climax,0,1963
+18,Ian Raby,GBR,Gilby BRM,0,1963
+18,John  Campbell-Jones ,GBR,Lola Climax,0,1963
+18,Ian Burgess ,GBR,Scirocco BRM,0,1963
+18,Mike Hailwood,GBR,null,0,1963
+18,Mario  de Araujo Cabral ,POR,Cooper Climax,0,1963
+18,Bernard  Collomb ,FRA,Lotus Climax,0,1963
+18,Mike Spence,GBR,Lotus Climax,0,1963
+18,Peter Broeker ,CAN,Stebro Ford,0,1963
+18,Rodger Ward,USA,Lotus BRM,0,1963
+18,Pedro Rodriguez,MEX,Lotus Climax,0,1963
+18,Hap  Sharp ,USA,Lotus BRM,0,1963
+18,Moises Solana,MEX,BRM,0,1963
+18,Doug Serrurier,RSA,LDS Alfa Romeo,0,1963
+18,Trevor Blokdyk,RSA,Cooper Maserati,0,1963
+18,Brausch Niemann,RSA,Lotus Ford,0,1963
+18,John Love,RHO,Cooper Climax,0,1963
+18,Ernie Pieterse,RSA,Lotus Climax,0,1963
+18,Peter de Klerk,RSA,Alfa Romeo,0,1963
+18,Sam Tingle,RHO,LDS Alfa Romeo,0,1963
+18,David Prophet,GBR,Brabham Ford,0,1963
+1,Graham Hill,GBR,BRM,42,1962
+2,Jim Clark,GBR,Lotus Climax,30,1962
+3,Bruce McLaren,NZL,Cooper Climax,27,1962
+4,John Surtees,GBR,Lola Climax,19,1962
+5,Dan Gurney,USA,Porsche,15,1962
+6,Phil Hill,USA,Ferrari,14,1962
+7,Tony Maggs,RSA,Cooper Climax,13,1962
+8,Richie Ginther,USA,BRM,10,1962
+9,Jack Brabham,AUS,Brabham Climax,9,1962
+10,Trevor  Taylor ,GBR,Lotus Climax,6,1962
+11,Giancarlo Baghetti,ITA,Ferrari,5,1962
+12,Lorenzo Bandini,ITA,Ferrari,4,1962
+12,Ricardo  Rodriguez ,MEX,Ferrari,4,1962
+14,Willy Mairesse,BEL,Ferrari,3,1962
+14,Jo Bonnier,SWE,Porsche,3,1962
+16,Innes Ireland,GBR,Lotus Climax,2,1962
+16,Carel Godin de Beaufort ,NED,Porsche,2,1962
+18,Masten Gregory,USA,Lotus BRM,1,1962
+18,Neville Lederle,RSA,Lotus Climax,1,1962
+1,Phil Hill,USA,Ferrari,34,1961
+2,Wolfgang von Trips,GER,Ferrari,33,1961
+3,Stirling Moss,GBR,Lotus Climax,21,1961
+3,Dan Gurney,USA,Porsche,21,1961
+5,Richie Ginther,USA,Ferrari,16,1961
+6,Innes Ireland,GBR,Lotus Climax,12,1961
+7,Jim Clark,GBR,Lotus Climax,11,1961
+7,Bruce McLaren,NZL,Cooper Climax,11,1961
+9,Giancarlo Baghetti,ITA,Ferrari,9,1961
+10,Tony Brooks,GBR,BRM Climax,6,1961
+11,Jack Brabham,AUS,Cooper Climax,4,1961
+11,John Surtees,GBR,Cooper Climax,4,1961
+13,Olivier  Gendebien,BEL,Lotus Climax,3,1961
+13,Jackie  Lewis ,GBR,Cooper Climax,3,1961
+13,Jo Bonnier,SWE,Porsche,3,1961
+13,Graham Hill,GBR,BRM Climax,3,1961
+17,Roy Salvadori,GBR,Cooper Climax,2,1961
+1,Jack Brabham,AUS,Cooper Climax,43,1960
+2,Bruce McLaren,NZL,Cooper Climax,34,1960
+3,Stirling Moss,GBR,Lotus Climax,19,1960
+4,Innes Ireland,GBR,Lotus Climax,18,1960
+5,Phil Hill,USA,Cooper Climax,16,1960
+6,Olivier  Gendebien,BEL,Cooper Climax,10,1960
+6,Wolfgang von Trips,GER,Cooper Maserati,10,1960
+8,Jim Rathmann,USA,Watson Offenhauser,8,1960
+8,Richie Ginther,USA,Ferrari,8,1960
+8,Jim Clark,GBR,Lotus Climax,8,1960
+11,Tony Brooks,GBR,Cooper Climax,7,1960
+12,Cliff Allison,GBR,Ferrari,6,1960
+12,Rodger Ward,USA,Watson Offenhauser,6,1960
+12,John Surtees,GBR,Lotus Climax,6,1960
+15,Paul Goldsmith,USA,Epperly Offenhauser,4,1960
+15,Graham Hill,GBR,BRM,4,1960
+15,Willy Mairesse,BEL,Ferrari,4,1960
+15,Jo Bonnier,SWE,BRM,4,1960
+19,Carlos Menditeguy,ARG,Cooper Maserati,3,1960
+19,Don  Branson,USA,Phillips Offenhauser,3,1960
+19,Henry Taylor,GBR,Cooper Climax,3,1960
+19,Giulio Cabianca,ITA,Cooper Castellotti,3,1960
+23,Johnny Thomson,USA,Lesovsky Offenhauser,2,1960
+24,Eddie Johnson,USA,Trevis Offenhauser,1,1960
+24,Lucien Bianchi,BEL,Cooper Climax,1,1960
+24,Ron Flockhart,GBR,Cooper Climax,1,1960
+24,Hans  Herrmann,GER,Porsche,1,1960
+1,Jack Brabham,AUS,Cooper Climax,31,1959
+2,Tony Brooks,GBR,Ferrari,27,1959
+3,Stirling Moss,GBR,Cooper Climax,25.5,1959
+4,Phil Hill,USA,Ferrari,20,1959
+5,Maurice  Trintignant,FRA,Cooper Climax,19,1959
+6,Bruce McLaren,NZL,Cooper Climax,16.5,1959
+7,Dan Gurney,USA,Ferrari,13,1959
+8,Jo Bonnier,SWE,BRM,10,1959
+8,Masten Gregory,USA,Cooper Climax,10,1959
+10,Rodger Ward,USA,Kurtis Kraft Offenhauser,8,1959
+11,Jim Rathmann,USA,Watson Offenhauser,6,1959
+12,Johnny Thomson,USA,Lesovsky Offenhauser,5,1959
+12,Innes Ireland,GBR,Lotus Climax,5,1959
+12,Harry Schell,USA,Cooper Climax,5,1959
+15,Tony  Bettenhausen,USA,Epperly Offenhauser,3,1959
+15,Olivier  Gendebien,BEL,Ferrari,3,1959
+17,Paul Goldsmith,USA,Epperly Offenhauser,2,1959
+17,Jean Behra,FRA,Ferrari,2,1959
+17,Cliff Allison,GBR,Ferrari,2,1959
+1,Mike Hawthorn,GBR,Ferrari,42,1958
+2,Stirling Moss,GBR,Vanwall,41,1958
+3,Tony Brooks,GBR,Vanwall,24,1958
+4,Roy Salvadori,GBR,Cooper Climax,15,1958
+5,Peter Collins,GBR,Ferrari,14,1958
+5,Harry Schell,USA,BRM,14,1958
+7,Maurice  Trintignant,FRA,Cooper Climax,12,1958
+7,Luigi Musso,ITA,Ferrari,12,1958
+9,Stuart  Lewis-Evans ,GBR,Vanwall,11,1958
+10,Phil Hill,USA,Ferrari,9,1958
+10,Jean Behra,FRA,BRM,9,1958
+10,Wolfgang von Trips,GER,Ferrari,9,1958
+13,Jimmy Bryan,USA,Epperly Offenhauser,8,1958
+14,Juan Manuel Fangio,ARG,Maserati,7,1958
+15,George  Amick,USA,Epperly Offenhauser,6,1958
+16,Tony  Bettenhausen,USA,Epperly Offenhauser,4,1958
+16,Johnny  Boyd,USA,Kurtis Kraft Offenhauser,4,1958
+18,Jack Brabham,AUS,Cooper Climax,3,1958
+18,Cliff Allison,GBR,Lotus Climax,3,1958
+18,Jo Bonnier,SWE,BRM,3,1958
+21,Jim Rathmann,USA,Epperly Offenhauser,2,1958
+1,Juan Manuel Fangio,ARG,Maserati,40,1957
+2,Stirling Moss,GBR,Vanwall,25,1957
+3,Luigi Musso,ITA,Ferrari,16,1957
+4,Mike Hawthorn,GBR,Ferrari,13,1957
+5,Tony Brooks,GBR,Vanwall,11,1957
+6,Masten Gregory,USA,Maserati,10,1957
+6,Harry Schell,USA,Maserati,10,1957
+8,Sam Hanks,USA,Epperly Offenhauser,8,1957
+8,Peter Collins,GBR,Ferrari,8,1957
+10,Jim Rathmann,USA,Epperly Offenhauser,7,1957
+11,Jean Behra,FRA,Maserati,6,1957
+12,Stuart  Lewis-Evans ,GBR,Vanwall,5,1957
+12,Maurice  Trintignant,FRA,Ferrari,5,1957
+14,Carlos Menditeguy,ARG,Maserati,4,1957
+14,Jimmy Bryan,USA,Kuzma Offenhauser,4,1957
+14,Wolfgang von Trips,GER,Ferrari,4,1957
+17,Paul Russo,USA,Kurtis Kraft Novi,3,1957
+18,Andy Linden,USA,Kurtis Kraft Offenhauser,2,1957
+18,Roy Salvadori,GBR,Cooper Climax,2,1957
+20,Alfonso de Portago ,ESP,Ferrari,1,1957
+20,Jose Froilan Gonzalez,ARG,Ferrari,1,1957
+20,Giorgio  Scarlatti ,ITA,Maserati,1,1957
+1,Juan Manuel Fangio,ARG,Ferrari,30,1956
+2,Stirling Moss,GBR,Maserati,27,1956
+3,Peter Collins,GBR,Ferrari,25,1956
+4,Jean Behra,FRA,Maserati,22,1956
+5,Pat Flaherty,USA,Watson Offenhauser,8,1956
+6,Eugenio Castellotti,ITA,Ferrari,7.5,1956
+7,Sam Hanks,USA,Kurtis Kraft Offenhauser,6,1956
+7,Paul Frere,BEL,Ferrari,6,1956
+7,Paco  Godia,ESP,Maserati,6,1956
+10,Jack  Fairman,GBR,Connaught Alta,5,1956
+11,Mike Hawthorn,GBR,BRM,4,1956
+11,Luigi Musso,ITA,Ferrari,4,1956
+11,Don  Freeland,USA,Phillips Offenhauser,4,1956
+11,Ron Flockhart,GBR,Connaught Alta,4,1956
+15,Johnnie  Parsons,USA,Kuzma Offenhauser,3,1956
+15,Harry Schell,USA,Vanwall,3,1956
+15,Alfonso de Portago ,ESP,Ferrari,3,1956
+15,Cesare Perdisa,ITA,Maserati,3,1956
+19,Olivier  Gendebien,BEL,Ferrari,2,1956
+19,Hermano da Silva Ramos,BRA,Gordini,2,1956
+19,Dick Rathmann,USA,Kurtis Kraft Offenhauser,2,1956
+19,Luigi  Villoresi,ITA,Maserati,2,1956
+19,Horace  Gould ,GBR,Maserati,2,1956
+19,Louis  Rosier,FRA,Maserati,2,1956
+25,Gerino  Gerini ,ITA,Maserati,1.5,1956
+25,Chico Landi,BRA,Maserati,1.5,1956
+27,Paul Russo,USA,Kurtis Kraft Novi,1,1956
+1,Juan Manuel Fangio,ARG,Mercedes-Benz,40,1955
+2,Stirling Moss,GBR,Mercedes-Benz,23,1955
+3,Eugenio Castellotti,ITA,Ferrari,12,1955
+4,Maurice  Trintignant,FRA,Ferrari,11.3,1955
+5,Nino Farina,ITA,Ferrari,10.3,1955
+6,Piero  Taruffi,ITA,Mercedes-Benz,9,1955
+7,Bob Sweikert,USA,Kurtis Kraft Offenhauser,8,1955
+8,Roberto Mieres,ARG,Maserati,7,1955
+9,Luigi Musso,ITA,Maserati,6,1955
+9,Jean Behra,FRA,Maserati,6,1955
+11,Karl Kling,GER,Mercedes-Benz,5,1955
+12,Jimmy Davies,USA,Kurtis Kraft Offenhauser,4,1955
+13,Paul Russo,USA,Kurtis Kraft Offenhauser,3,1955
+13,Tony  Bettenhausen,USA,Kurtis Kraft Offenhauser,3,1955
+13,Johnny Thomson,USA,Kuzma Offenhauser,3,1955
+13,Paul Frere,BEL,Ferrari,3,1955
+17,Jose Froilan Gonzalez,ARG,Ferrari,2,1955
+17,Cesare Perdisa,ITA,Maserati,2,1955
+17,Luigi  Villoresi,ITA,Lancia,2,1955
+17,Carlos Menditeguy,ARG,Maserati,2,1955
+21,Umberto  Maglioli,ITA,Ferrari,1.3,1955
+22,Hans  Herrmann,GER,Mercedes-Benz,1,1955
+22,Walt  Faulkner,USA,Kurtis Kraft Offenhauser,1,1955
+22,Bill Homeier,USA,Kurtis Kraft Offenhauser,1,1955
+22,Bill  Vukovich ,USA,Kurtis Kraft Offenhauser,1,1955
+1,Juan Manuel Fangio,ARG,Mercedes-Benz,42,1954
+2,Jose Froilan Gonzalez,ARG,Ferrari,25.1,1954
+3,Mike Hawthorn,GBR,Ferrari,24.6,1954
+4,Maurice  Trintignant,FRA,Ferrari,17,1954
+5,Karl Kling,GER,Mercedes-Benz,12,1954
+6,Bill  Vukovich ,USA,Kurtis Kraft Offenhauser,8,1954
+6,Hans  Herrmann,GER,Mercedes-Benz,8,1954
+8,Nino Farina,ITA,Ferrari,6,1954
+8,Jimmy Bryan,USA,Kuzma Offenhauser,6,1954
+8,Luigi Musso,ITA,Maserati,6,1954
+8,Roberto Mieres,ARG,Maserati,6,1954
+12,Jack McGrath,USA,Kurtis Kraft Offenhauser,5,1954
+13,Stirling Moss,GBR,Maserati,4.1,1954
+13,Onofre Marimon,ARG,Maserati,4.1,1954
+15,Robert  Manzon,FRA,Ferrari,4,1954
+15,Sergio Mantovani,ITA,Maserati,4,1954
+17,Prince Bira,THA,Maserati,3,1954
+18,Elie Bayol,FRA,Gordini,2,1954
+18,Mike Nazaruk,USA,Kurtis Kraft Offenhauser,2,1954
+18,Andre Pilette,BEL,Gordini,2,1954
+18,Luigi  Villoresi,ITA,Lancia,2,1954
+18,Umberto  Maglioli,ITA,Ferrari,2,1954
+23,Troy Ruttman,USA,Kurtis Kraft Offenhauser,1.5,1954
+23,Duane Carter,USA,Kurtis Kraft Offenhauser,1.5,1954
+25,Alberto Ascari,ITA,Lancia,1.1,1954
+26,Jean Behra,FRA,Gordini,0.1,1954
+1,Alberto Ascari,ITA,Ferrari,34.5,1953
+2,Juan Manuel Fangio,ARG,Maserati,27.5,1953
+3,Nino Farina,ITA,Ferrari,26,1953
+4,Mike Hawthorn,GBR,Ferrari,19,1953
+5,Luigi  Villoresi,ITA,Ferrari,17,1953
+6,Jose Froilan Gonzalez,ARG,Maserati,13.5,1953
+7,Bill  Vukovich ,USA,Kurtis Kraft Offenhauser,9,1953
+8,Toulo de Graffenried,SUI,Maserati,7,1953
+9,Felice  Bonetto,ITA,Maserati,6.5,1953
+10,Art Cross,USA,Kurtis Kraft Offenhauser,6,1953
+11,Onofre Marimon,ARG,Maserati,4,1953
+11,Maurice  Trintignant,FRA,Gordini,4,1953
+13,Oscar Alfredo Galvez,ARG,Maserati,2,1953
+13,Sam Hanks,USA,Kurtis Kraft Offenhauser,2,1953
+13,Duane Carter,USA,Kurtis Kraft Offenhauser,2,1953
+13,Jack McGrath,USA,Kurtis Kraft Offenhauser,2,1953
+13,Hermann Lang,GER,Maserati,2,1953
+18,Fred Agabashian,USA,Kurtis Kraft Offenhauser,1.5,1953
+18,Paul Russo,USA,Kurtis Kraft Offenhauser,1.5,1953
+1,Alberto Ascari,ITA,Ferrari,36,1952
+2,Nino Farina,ITA,Ferrari,24,1952
+3,Piero  Taruffi,ITA,Ferrari,22,1952
+4,Rudi  Fischer ,SUI,Ferrari,10,1952
+4,Mike Hawthorn,GBR,Cooper Bristol,10,1952
+6,Robert  Manzon,FRA,Gordini,9,1952
+7,Troy Ruttman,USA,Kuzma Offenhauser,8,1952
+7,Luigi  Villoresi,ITA,Ferrari,8,1952
+9,Jose Froilan Gonzalez,ARG,Maserati,6.5,1952
+10,Jim Rathmann,USA,Kurtis Kraft Offenhauser,6,1952
+10,Jean Behra,FRA,Gordini,6,1952
+12,Sam Hanks,USA,Kurtis Kraft Offenhauser,4,1952
+13,Ken  Wharton,GBR,null,3,1952
+13,Duane Carter,USA,Lesovsky Offenhauser,3,1952
+13,Dennis Poore,GBR,Connaught Lea Francis,3,1952
+16,Alan Brown,GBR,Cooper Bristol,2,1952
+16,Art Cross,USA,Kurtis Kraft Offenhauser,2,1952
+16,Paul Frere,BEL,Simca-Gordini,2,1952
+16,Maurice  Trintignant,FRA,Gordini,2,1952
+16,Eric Thompson,GBR,Connaught Lea Francis,2,1952
+16,Felice  Bonetto,ITA,Maserati,2,1952
+22,Bill  Vukovich ,USA,Kurtis Kraft Offenhauser,1,1952
+1,Juan Manuel Fangio,ARG,Alfa Romeo,31,1951
+2,Alberto Ascari,ITA,Ferrari,25,1951
+3,Jose Froilan Gonzalez,ARG,Ferrari,24,1951
+4,Nino Farina,ITA,Alfa Romeo,19,1951
+5,Luigi  Villoresi,ITA,Ferrari,15,1951
+6,Piero  Taruffi,ITA,Ferrari,10,1951
+7,Lee Wallard,USA,Kurtis Kraft Offenhauser,9,1951
+8,Felice  Bonetto,ITA,Alfa Romeo,7,1951
+9,Mike Nazaruk,USA,Kurtis Kraft Offenhauser,6,1951
+10,Reg  Parnell,GBR,BRM,5,1951
+11,Luigi Fagioli,ITA,Alfa Romeo,4,1951
+12,Consalvo  Sanesi,ITA,Alfa Romeo,3,1951
+12,Andy Linden,USA,Sherman Offenhauser,3,1951
+12,Louis  Rosier,FRA,null,3,1951
+15,Toulo de Graffenried,SUI,Alfa Romeo,2,1951
+15,Manny Ayulo,USA,Kurtis Kraft Offenhauser,2,1951
+15,Bobby Ball,USA,Schroeder Offenhauser,2,1951
+15,Jack McGrath,USA,Kurtis Kraft Offenhauser,2,1951
+15,Yves Giraud Cabantous,FRA,Talbot-Lago,2,1951
+1,Nino Farina,ITA,Alfa Romeo,30,1950
+2,Juan Manuel Fangio,ARG,Alfa Romeo,27,1950
+3,Luigi Fagioli,ITA,Alfa Romeo,24,1950
+4,Louis  Rosier,FRA,Talbot-Lago,13,1950
+5,Alberto Ascari,ITA,Ferrari,11,1950
+6,Johnnie  Parsons,USA,Kurtis Kraft Offenhauser,9,1950
+7,Bill Holland,USA,Deidt Offenhauser,6,1950
+8,Prince Bira,THA,Maserati,5,1950
+9,Reg  Parnell,GBR,Maserati,4,1950
+9,Louis  Chiron,MON,Maserati,4,1950
+9,Mauri  Rose,USA,Deidt Offenhauser,4,1950
+9,Peter  Whitehead,GBR,Ferrari,4,1950
+13,Yves Giraud Cabantous,FRA,Talbot-Lago,3,1950
+13,Raymond  Sommer,FRA,Talbot-Lago,3,1950
+13,Cecil  Green,USA,Kurtis Kraft Offenhauser,3,1950
+13,Robert  Manzon,FRA,Simca-Gordini,3,1950
+13,Dorino  Serafini,ITA,null,3,1950
+13,Philippe  Etancelin,FRA,null,3,1950
+19,Felice  Bonetto,ITA,Maserati Milano,2,1950
+20,Tony  Bettenhausen,USA,Deidt Offenhauser,1,1950
+20,Joie  Chitwood,USA,Kurtis Kraft Offenhauser,1,1950
+20,Eugene  Chaboud,FRA,null,1,1950

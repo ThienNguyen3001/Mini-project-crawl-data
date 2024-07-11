@@ -44,4 +44,4 @@ df = pd.DataFrame({
     "Total stars": total_stars,
     "Forks": forks,
     "Stars today": stars_today
-}).to_csv("github_trending.csv", index=False)
+}).to_csv(r"C:\Users\Admin\Desktop\python\Crawl data\Github trend\github_trending.csv", index=False)

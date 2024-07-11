@@ -111,4 +111,4 @@ with ThreadPoolExecutor(max_workers=5) as executor:  # Adjust max_workers based 
 
 # Save data to CSV
 df = pd.DataFrame(all_data)
-df.to_csv("NhaDatHCM_temp.csv", index=False)
+df.to_csv(r"C:\Users\Admin\Desktop\python\Crawl data\Estate pricing\NhaDatHCM_temp.csv", index=False)
