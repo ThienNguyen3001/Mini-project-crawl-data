@@ -3,15 +3,11 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import pandas as pd
 
-# Đường dẫn đến ChromeDriver
-
 driver = webdriver.Chrome()
 
-# Mở trang IMDb top chart
 url = "https://www.imdb.com/chart/top/"
 driver.get(url)
 
-# Khởi tạo các danh sách để lưu trữ dữ liệu
 titles = []
 publish_years = []
 times = []
@@ -31,7 +27,6 @@ for movie in movie_repo:
     rating = movie.find_element(By.CLASS_NAME, 'ipc-rating-star--rating').text.strip()
     vote_count = movie.find_element(By.CLASS_NAME, 'ipc-rating-star--voteCount').text.strip()
 
-    # Thêm dữ liệu vào các danh sách
     titles.append(title)
     publish_years.append(publish_year)
     times.append(time)
@@ -39,10 +34,8 @@ for movie in movie_repo:
     ratings.append(rating)
     vote_counts.append(vote_count)
 
-# Đóng trình duyệt sau khi crawl xong
 driver.quit()
 
-# Tạo DataFrame từ các danh sách
 df = pd.DataFrame({
     "Title": titles,
     "Publish year": publish_years,
@@ -52,5 +45,4 @@ df = pd.DataFrame({
     "Vote count": vote_counts
 }).to_csv("IMDB\IMDB_top_chart.csv", index=False)
 
-# Hiển thị DataFrame
-print(df)
+print('Crawl done')
